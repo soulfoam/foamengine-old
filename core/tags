@@ -1,0 +1,1279 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+BINARY_MAPPER_READ	core/src/core/ext/binary_mapper.h	/^    BINARY_MAPPER_READ,$/;"	e	language:C++	enum:__anon12
+BINARY_MAPPER_READ	core/src/core/ext/binary_mapper.h	/^    BINARY_MAPPER_READ,$/;"	e	language:C++	enum:__anon26
+BINARY_MAPPER_WRITE	core/src/core/ext/binary_mapper.h	/^    BINARY_MAPPER_WRITE$/;"	e	language:C++	enum:__anon12
+BINARY_MAPPER_WRITE	core/src/core/ext/binary_mapper.h	/^    BINARY_MAPPER_WRITE$/;"	e	language:C++	enum:__anon26
+BinaryMapper	core/src/core/ext/binary_mapper.h	/^} BinaryMapper;$/;"	t	language:C++	typeref:struct:__anon13
+BinaryMapper	core/src/core/ext/binary_mapper.h	/^} BinaryMapper;$/;"	t	language:C++	typeref:struct:__anon27
+BinaryMapperMode	core/src/core/ext/binary_mapper.h	/^} BinaryMapperMode;$/;"	t	language:C++	typeref:enum:__anon12
+BinaryMapperMode	core/src/core/ext/binary_mapper.h	/^} BinaryMapperMode;$/;"	t	language:C++	typeref:enum:__anon26
+BoneAnimData	core/src/core/data/skeleton_data.h	/^} BoneAnimData;$/;"	t	language:C++	typeref:struct:__anon18
+BoneAnimData	core/src/core/data/skeleton_data.h	/^} BoneAnimData;$/;"	t	language:C++	typeref:struct:__anon4
+BoneData	core/src/core/data/skeleton_data.h	/^} BoneData;$/;"	t	language:C++	typeref:struct:__anon20
+BoneData	core/src/core/data/skeleton_data.h	/^} BoneData;$/;"	t	language:C++	typeref:struct:__anon6
+CGLM_ALIGN	/mnt/data/code/c/libs/cglm/include/cglm/types.h	15;"	d	language:C++
+CGLM_ALIGN	/mnt/data/code/c/libs/cglm/include/cglm/types.h	17;"	d	language:C++
+CGLM_ALIGN	/mnt/data/code/c/libs/cglm/include/cglm/types.h	20;"	d	language:C++
+CGLM_ALIGN_IF	/mnt/data/code/c/libs/cglm/include/cglm/types.h	24;"	d	language:C++
+CGLM_ALIGN_IF	/mnt/data/code/c/libs/cglm/include/cglm/types.h	26;"	d	language:C++
+CGLM_ALIGN_MAT	/mnt/data/code/c/libs/cglm/include/cglm/types.h	30;"	d	language:C++
+CGLM_ALIGN_MAT	/mnt/data/code/c/libs/cglm/include/cglm/types.h	32;"	d	language:C++
+CGLM_ALL_UNALIGNED	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	11;"	d	language:C++
+CGLM_ALL_UNALIGNED	/mnt/data/code/c/libs/cglm/include/cglm/types.h	14;"	d	language:C++
+CGLM_AVX_FP	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	61;"	d	language:C++
+CGLM_DECASTEL_EPS	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	23;"	d	language:C++
+CGLM_DECASTEL_MAX	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	24;"	d	language:C++
+CGLM_DECASTEL_SMALL	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	25;"	d	language:C++
+CGLM_EXPORT	/mnt/data/code/c/libs/cglm/include/cglm/common.h	20;"	d	language:C++
+CGLM_EXPORT	/mnt/data/code/c/libs/cglm/include/cglm/common.h	22;"	d	language:C++
+CGLM_EXPORT	/mnt/data/code/c/libs/cglm/include/cglm/common.h	26;"	d	language:C++
+CGLM_INLINE	/mnt/data/code/c/libs/cglm/include/cglm/common.h	24;"	d	language:C++
+CGLM_INLINE	/mnt/data/code/c/libs/cglm/include/cglm/common.h	27;"	d	language:C++
+CGLM_NEON_FP	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	71;"	d	language:C++
+CGLM_PI	/mnt/data/code/c/libs/cglm/include/cglm/types.h	77;"	d	language:C++
+CGLM_PI_2	/mnt/data/code/c/libs/cglm/include/cglm/types.h	78;"	d	language:C++
+CGLM_PI_4	/mnt/data/code/c/libs/cglm/include/cglm/types.h	79;"	d	language:C++
+CGLM_SIMD	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	80;"	d	language:C++
+CGLM_SIMD_ARM	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	73;"	d	language:C++
+CGLM_SIMD_x86	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	34;"	d	language:C++
+CGLM_SIMD_x86	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	41;"	d	language:C++
+CGLM_SIMD_x86	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	48;"	d	language:C++
+CGLM_SIMD_x86	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	55;"	d	language:C++
+CGLM_SIMD_x86	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	63;"	d	language:C++
+CGLM_SSE_FP	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	32;"	d	language:C++
+CGLM_VERSION_MAJOR	/mnt/data/code/c/libs/cglm/include/cglm/version.h	11;"	d	language:C++
+CGLM_VERSION_MINOR	/mnt/data/code/c/libs/cglm/include/cglm/version.h	12;"	d	language:C++
+CGLM_VERSION_PATCH	/mnt/data/code/c/libs/cglm/include/cglm/version.h	13;"	d	language:C++
+COMPONENT_COUNT	core/src/core/ecs/component.h	/^	COMPONENT_COUNT$/;"	e	language:C++	enum:__anon22
+COMPONENT_COUNT	core/src/core/ecs/component.h	/^	COMPONENT_COUNT$/;"	e	language:C++	enum:__anon8
+COMPONENT_TRANSFORM	core/src/core/ecs/component.h	/^	COMPONENT_TRANSFORM,$/;"	e	language:C++	enum:__anon22
+COMPONENT_TRANSFORM	core/src/core/ecs/component.h	/^	COMPONENT_TRANSFORM,$/;"	e	language:C++	enum:__anon8
+COMPONENT_VELOCITY	core/src/core/ecs/component.h	/^	COMPONENT_VELOCITY,$/;"	e	language:C++	enum:__anon22
+COMPONENT_VELOCITY	core/src/core/ecs/component.h	/^	COMPONENT_VELOCITY,$/;"	e	language:C++	enum:__anon8
+CTRANSFORM_POOL_SIZE	core/src/core/ecs/entity_master.h	16;"	d	language:C++
+CTransform	core/src/core/ecs/component.h	/^} CTransform;$/;"	t	language:C++	typeref:struct:__anon23
+CTransform	core/src/core/ecs/component.h	/^} CTransform;$/;"	t	language:C++	typeref:struct:__anon9
+CVELOCITY_POOL_SIZE	core/src/core/ecs/entity_master.h	17;"	d	language:C++
+CVelocity	core/src/core/ecs/component.h	/^} CVelocity;$/;"	t	language:C++	typeref:struct:__anon10
+CVelocity	core/src/core/ecs/component.h	/^} CVelocity;$/;"	t	language:C++	typeref:struct:__anon24
+ComponentPool	core/src/core/ecs/component_pool.h	/^} ComponentPool;$/;"	t	language:C++	typeref:struct:__anon11
+ComponentPool	core/src/core/ecs/component_pool.h	/^} ComponentPool;$/;"	t	language:C++	typeref:struct:__anon25
+ComponentType	core/src/core/ecs/component.h	/^} ComponentType;$/;"	t	language:C++	typeref:enum:__anon22
+ComponentType	core/src/core/ecs/component.h	/^} ComponentType;$/;"	t	language:C++	typeref:enum:__anon8
+E_ID	core/src/core/ecs/entity_master.h	10;"	d	language:C++
+E_INDEX	core/src/core/ecs/entity_master.h	11;"	d	language:C++
+E_VER	core/src/core/ecs/entity_master.h	12;"	d	language:C++
+Entity	core/src/core/ecs/entity_master.h	/^typedef u64 Entity;$/;"	t	language:C++
+EntityMaster	core/src/core/ecs/entity_master.h	/^EntityMaster$/;"	s	language:C++
+EntityMaster	core/src/core/ecs/entity_master.h	/^} EntityMaster;$/;"	t	language:C++	typeref:struct:EntityMaster
+GLM_1_PI	/mnt/data/code/c/libs/cglm/include/cglm/types.h	56;"	d	language:C++
+GLM_1_PIf	/mnt/data/code/c/libs/cglm/include/cglm/types.h	70;"	d	language:C++
+GLM_2_PI	/mnt/data/code/c/libs/cglm/include/cglm/types.h	57;"	d	language:C++
+GLM_2_PIf	/mnt/data/code/c/libs/cglm/include/cglm/types.h	71;"	d	language:C++
+GLM_2_SQRTPI	/mnt/data/code/c/libs/cglm/include/cglm/types.h	58;"	d	language:C++
+GLM_2_SQRTPIf	/mnt/data/code/c/libs/cglm/include/cglm/types.h	72;"	d	language:C++
+GLM_BEZIER_MAT	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	20;"	d	language:C++
+GLM_BEZIER_MAT_INIT	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	11;"	d	language:C++
+GLM_BOTTOM	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	29;"	d	language:C++
+GLM_CSCOORD_LBF	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	46;"	d	language:C++
+GLM_CSCOORD_LBN	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	40;"	d	language:C++
+GLM_CSCOORD_LTF	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	47;"	d	language:C++
+GLM_CSCOORD_LTN	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	41;"	d	language:C++
+GLM_CSCOORD_RBF	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	49;"	d	language:C++
+GLM_CSCOORD_RBN	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	43;"	d	language:C++
+GLM_CSCOORD_RTF	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	48;"	d	language:C++
+GLM_CSCOORD_RTN	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	42;"	d	language:C++
+GLM_E	/mnt/data/code/c/libs/cglm/include/cglm/types.h	48;"	d	language:C++
+GLM_EULER_XYZ	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^  GLM_EULER_XYZ = 0 << 0 | 1 << 2 | 2 << 4,$/;"	e	language:C++	enum:glm_euler_sq
+GLM_EULER_XZY	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^  GLM_EULER_XZY = 0 << 0 | 2 << 2 | 1 << 4,$/;"	e	language:C++	enum:glm_euler_sq
+GLM_EULER_YXZ	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^  GLM_EULER_YXZ = 1 << 0 | 0 << 2 | 2 << 4,$/;"	e	language:C++	enum:glm_euler_sq
+GLM_EULER_YZX	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^  GLM_EULER_YZX = 1 << 0 | 2 << 2 | 0 << 4,$/;"	e	language:C++	enum:glm_euler_sq
+GLM_EULER_ZXY	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^  GLM_EULER_ZXY = 2 << 0 | 0 << 2 | 1 << 4,$/;"	e	language:C++	enum:glm_euler_sq
+GLM_EULER_ZYX	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^  GLM_EULER_ZYX = 2 << 0 | 1 << 2 | 0 << 4$/;"	e	language:C++	enum:glm_euler_sq
+GLM_Ef	/mnt/data/code/c/libs/cglm/include/cglm/types.h	62;"	d	language:C++
+GLM_FAR	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	32;"	d	language:C++
+GLM_HERMITE_MAT	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	21;"	d	language:C++
+GLM_HERMITE_MAT_INIT	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	15;"	d	language:C++
+GLM_LBF	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	22;"	d	language:C++
+GLM_LBN	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	17;"	d	language:C++
+GLM_LEFT	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	27;"	d	language:C++
+GLM_LN10	/mnt/data/code/c/libs/cglm/include/cglm/types.h	52;"	d	language:C++
+GLM_LN10f	/mnt/data/code/c/libs/cglm/include/cglm/types.h	66;"	d	language:C++
+GLM_LN2	/mnt/data/code/c/libs/cglm/include/cglm/types.h	51;"	d	language:C++
+GLM_LN2f	/mnt/data/code/c/libs/cglm/include/cglm/types.h	65;"	d	language:C++
+GLM_LOG10E	/mnt/data/code/c/libs/cglm/include/cglm/types.h	50;"	d	language:C++
+GLM_LOG10Ef	/mnt/data/code/c/libs/cglm/include/cglm/types.h	64;"	d	language:C++
+GLM_LOG2E	/mnt/data/code/c/libs/cglm/include/cglm/types.h	49;"	d	language:C++
+GLM_LOG2Ef	/mnt/data/code/c/libs/cglm/include/cglm/types.h	63;"	d	language:C++
+GLM_LTF	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	23;"	d	language:C++
+GLM_LTN	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	18;"	d	language:C++
+GLM_MAT3_IDENTITY	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	54;"	d	language:C++
+GLM_MAT3_IDENTITY_INIT	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	45;"	d	language:C++
+GLM_MAT3_ZERO	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	55;"	d	language:C++
+GLM_MAT3_ZERO_INIT	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	48;"	d	language:C++
+GLM_MAT4_IDENTITY	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	83;"	d	language:C++
+GLM_MAT4_IDENTITY_INIT	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	72;"	d	language:C++
+GLM_MAT4_ZERO	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	84;"	d	language:C++
+GLM_MAT4_ZERO_INIT	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	77;"	d	language:C++
+GLM_MAX	/mnt/data/code/c/libs/cglm/include/cglm/util.h	25;"	d	language:C++
+GLM_MIN	/mnt/data/code/c/libs/cglm/include/cglm/util.h	24;"	d	language:C++
+GLM_NEAR	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	31;"	d	language:C++
+GLM_PI	/mnt/data/code/c/libs/cglm/include/cglm/types.h	53;"	d	language:C++
+GLM_PI_2	/mnt/data/code/c/libs/cglm/include/cglm/types.h	54;"	d	language:C++
+GLM_PI_2f	/mnt/data/code/c/libs/cglm/include/cglm/types.h	68;"	d	language:C++
+GLM_PI_4	/mnt/data/code/c/libs/cglm/include/cglm/types.h	55;"	d	language:C++
+GLM_PI_4f	/mnt/data/code/c/libs/cglm/include/cglm/types.h	69;"	d	language:C++
+GLM_PIf	/mnt/data/code/c/libs/cglm/include/cglm/types.h	67;"	d	language:C++
+GLM_QUAT_IDENTITY	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	92;"	d	language:C++
+GLM_QUAT_IDENTITY_INIT	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	91;"	d	language:C++
+GLM_RBF	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	25;"	d	language:C++
+GLM_RBN	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	20;"	d	language:C++
+GLM_RIGHT	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	28;"	d	language:C++
+GLM_RTF	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	24;"	d	language:C++
+GLM_RTN	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	19;"	d	language:C++
+GLM_SQRT1_2	/mnt/data/code/c/libs/cglm/include/cglm/types.h	60;"	d	language:C++
+GLM_SQRT1_2f	/mnt/data/code/c/libs/cglm/include/cglm/types.h	74;"	d	language:C++
+GLM_SQRT2	/mnt/data/code/c/libs/cglm/include/cglm/types.h	59;"	d	language:C++
+GLM_SQRT2f	/mnt/data/code/c/libs/cglm/include/cglm/types.h	73;"	d	language:C++
+GLM_TOP	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	30;"	d	language:C++
+GLM_VEC3_ONE	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	99;"	d	language:C++
+GLM_VEC3_ONE_INIT	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	96;"	d	language:C++
+GLM_VEC3_ZERO	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	100;"	d	language:C++
+GLM_VEC3_ZERO_INIT	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	97;"	d	language:C++
+GLM_VEC4_BLACK	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	81;"	d	language:C++
+GLM_VEC4_BLACK_INIT	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	77;"	d	language:C++
+GLM_VEC4_ONE	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	80;"	d	language:C++
+GLM_VEC4_ONE_INIT	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	76;"	d	language:C++
+GLM_VEC4_ZERO	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	82;"	d	language:C++
+GLM_VEC4_ZERO_INIT	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	78;"	d	language:C++
+GLM_XUP	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	104;"	d	language:C++
+GLM_YUP	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	102;"	d	language:C++
+GLM_ZUP	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	103;"	d	language:C++
+LOG_DEBUG	core/src/core/ext/logger.h	/^	LOG_DEBUG,$/;"	e	language:C++	enum:__anon14
+LOG_DEBUG	core/src/core/ext/logger.h	/^	LOG_DEBUG,$/;"	e	language:C++	enum:__anon28
+LOG_FATAL	core/src/core/ext/logger.h	/^	LOG_FATAL$/;"	e	language:C++	enum:__anon14
+LOG_FATAL	core/src/core/ext/logger.h	/^	LOG_FATAL$/;"	e	language:C++	enum:__anon28
+LOG_INFO	core/src/core/ext/logger.h	/^	LOG_INFO,$/;"	e	language:C++	enum:__anon14
+LOG_INFO	core/src/core/ext/logger.h	/^	LOG_INFO,$/;"	e	language:C++	enum:__anon28
+LOG_WARN	core/src/core/ext/logger.h	/^	LOG_WARN,$/;"	e	language:C++	enum:__anon14
+LOG_WARN	core/src/core/ext/logger.h	/^	LOG_WARN,$/;"	e	language:C++	enum:__anon28
+MASK	core/src/core/ecs/component.h	6;"	d	language:C++
+MAX_ENTITIES	core/src/core/ecs/entity_master.h	14;"	d	language:C++
+MAX_NAME_LEN	core/src/core/data/mesh_bundle.h	6;"	d	language:C++
+MAX_NAME_LEN	core/src/core/data/skeleton_data.h	6;"	d	language:C++
+MB_FORMAT_EXT	core/src/core/data/mesh_bundle.c	/^const char *MB_FORMAT_EXT = "mb";$/;"	v	language:C
+MODEL_VER	core/src/core/data/mesh_bundle.c	/^const u32 MODEL_VER       = 1;$/;"	v	language:C
+MODEL_VER	core/src/core/data/skeleton_data.c	/^static const u32 MODEL_VER       = 1;$/;"	v	language:C	file:
+MODEL_VER	core/src/core/ext/binary_mapper_ext.c	/^static const u32 MODEL_VER = 1;$/;"	v	language:C	file:
+MeshBundle	core/src/core/data/mesh_bundle.h	/^} MeshBundle;$/;"	t	language:C++	typeref:struct:__anon17
+MeshBundle	core/src/core/data/mesh_bundle.h	/^} MeshBundle;$/;"	t	language:C++	typeref:struct:__anon3
+MeshData	core/src/core/data/mesh_bundle.h	/^} MeshData;$/;"	t	language:C++	typeref:struct:__anon16
+MeshData	core/src/core/data/mesh_bundle.h	/^} MeshData;$/;"	t	language:C++	typeref:struct:__anon2
+SK_FORMAT_EXT	core/src/core/data/skeleton_data.c	/^static const char *SK_FORMAT_EXT = "skel";$/;"	v	language:C	file:
+SYSTEM_MASK_MOVEMENT	core/src/core/ecs/system.c	5;"	d	language:C	file:
+SkeletonAnimData	core/src/core/data/skeleton_data.h	/^} SkeletonAnimData;$/;"	t	language:C++	typeref:struct:__anon19
+SkeletonAnimData	core/src/core/data/skeleton_data.h	/^} SkeletonAnimData;$/;"	t	language:C++	typeref:struct:__anon5
+SkeletonData	core/src/core/data/skeleton_data.h	/^} SkeletonData;$/;"	t	language:C++	typeref:struct:__anon21
+SkeletonData	core/src/core/data/skeleton_data.h	/^} SkeletonData;$/;"	t	language:C++	typeref:struct:__anon7
+Stack	core/src/core/ext/stack.c	/^Stack$/;"	s	language:C	file:
+Stack	core/src/core/ext/stack.h	/^typedef struct Stack Stack;$/;"	t	language:C++	typeref:struct:Stack
+VECTOR_EMPTY	core/src/core/ext/vector.h	27;"	d	language:C++
+VECTOR_META_DATA_SIZE__	core/src/core/ext/vector.h	17;"	d	language:C++
+Vertex	core/src/core/data/mesh_bundle.h	/^} Vertex;$/;"	t	language:C++	typeref:struct:__anon1
+Vertex	core/src/core/data/mesh_bundle.h	/^} Vertex;$/;"	t	language:C++	typeref:struct:__anon15
+_USE_MATH_DEFINES	/mnt/data/code/c/libs/cglm/include/cglm/common.h	11;"	d	language:C++
+_vector_set_cap__	core/src/core/ext/vector.h	21;"	d	language:C++
+_vector_set_count__	core/src/core/ext/vector.h	20;"	d	language:C++
+_vector_start_ptr__	core/src/core/ext/vector.h	19;"	d	language:C++
+anim_count	core/src/core/data/skeleton_data.h	/^	u32 anim_count;$/;"	m	language:C++	struct:__anon21
+anim_count	core/src/core/data/skeleton_data.h	/^	u32 anim_count;$/;"	m	language:C++	struct:__anon7
+anims	core/src/core/data/skeleton_data.h	/^	SkeletonAnimData *anims;$/;"	m	language:C++	struct:__anon21
+anims	core/src/core/data/skeleton_data.h	/^	SkeletonAnimData *anims;$/;"	m	language:C++	struct:__anon7
+binary_mapper_buffer	core/src/core/ext/binary_mapper.c	/^binary_mapper_buffer(BinaryMapper *mapper)$/;"	f	language:C
+binary_mapper_buffer	core/src/core/ext/binary_mapper.h	/^const void*   binary_mapper_buffer(BinaryMapper *mapper);$/;"	p	language:C++
+binary_mapper_buffer_size	core/src/core/ext/binary_mapper.c	/^binary_mapper_buffer_size(BinaryMapper *mapper)$/;"	f	language:C
+binary_mapper_buffer_size	core/src/core/ext/binary_mapper.h	/^size_t        binary_mapper_buffer_size(BinaryMapper *mapper);$/;"	p	language:C++
+binary_mapper_destroy	core/src/core/ext/binary_mapper.c	/^binary_mapper_destroy(BinaryMapper *mapper)$/;"	f	language:C
+binary_mapper_destroy	core/src/core/ext/binary_mapper.h	/^void          binary_mapper_destroy(BinaryMapper *mapper);$/;"	p	language:C++
+binary_mapper_load	core/src/core/ext/binary_mapper.c	/^binary_mapper_load(const char *file_path)$/;"	f	language:C
+binary_mapper_load	core/src/core/ext/binary_mapper.h	/^BinaryMapper* binary_mapper_load(const char *file_path);$/;"	p	language:C++
+binary_mapper_load_from_memory	core/src/core/ext/binary_mapper.c	/^binary_mapper_load_from_memory(const u8 *buffer, size_t buffer_size)$/;"	f	language:C
+binary_mapper_load_from_memory	core/src/core/ext/binary_mapper.h	/^BinaryMapper* binary_mapper_load_from_memory(const u8 *buffer, size_t buffer_size);$/;"	p	language:C++
+binary_mapper_make	core/src/core/ext/binary_mapper.c	/^binary_mapper_make(size_t buffer_size)$/;"	f	language:C
+binary_mapper_make	core/src/core/ext/binary_mapper.h	/^BinaryMapper* binary_mapper_make(size_t buffer_size);$/;"	p	language:C++
+binary_mapper_offset	core/src/core/ext/binary_mapper.c	/^binary_mapper_offset(BinaryMapper *mapper)$/;"	f	language:C
+binary_mapper_offset	core/src/core/ext/binary_mapper.h	/^size_t        binary_mapper_offset(BinaryMapper *mapper);$/;"	p	language:C++
+binary_mapper_save	core/src/core/ext/binary_mapper.c	/^binary_mapper_save(BinaryMapper *mapper, const char *file_path)$/;"	f	language:C
+binary_mapper_save	core/src/core/ext/binary_mapper.h	/^bool          binary_mapper_save(BinaryMapper *mapper, const char *file_path);$/;"	p	language:C++
+bm_map_bone_anim_data	core/src/core/ext/binary_mapper_ext.c	/^bm_map_bone_anim_data(BinaryMapper *mapper, BoneAnimData *anim_data)$/;"	f	language:C	file:
+bm_map_bone_data	core/src/core/ext/binary_mapper_ext.c	/^bm_map_bone_data(BinaryMapper *mapper, BoneData *bone_data)$/;"	f	language:C	file:
+bm_map_bool	core/src/core/ext/binary_mapper.c	/^bm_map_bool(BinaryMapper *mapper, bool *data)$/;"	f	language:C
+bm_map_bool	core/src/core/ext/binary_mapper.h	/^void          bm_map_bool(BinaryMapper *mapper, bool *data);$/;"	p	language:C++
+bm_map_char	core/src/core/ext/binary_mapper.c	/^bm_map_char(BinaryMapper *mapper, char *buf, size_t len)$/;"	f	language:C
+bm_map_char	core/src/core/ext/binary_mapper.h	/^void          bm_map_char(BinaryMapper *mapper, char *str, size_t len);$/;"	p	language:C++
+bm_map_data	core/src/core/ext/binary_mapper.c	/^bm_map_data(BinaryMapper *mapper, void *data, size_t data_len)$/;"	f	language:C
+bm_map_data	core/src/core/ext/binary_mapper.h	/^void          bm_map_data(BinaryMapper *mapper, void *data, size_t data_len);$/;"	p	language:C++
+bm_map_f32	core/src/core/ext/binary_mapper.c	/^bm_map_f32(BinaryMapper *mapper, f32 *data)$/;"	f	language:C
+bm_map_f32	core/src/core/ext/binary_mapper.h	/^void          bm_map_f32(BinaryMapper *mapper, f32 *data);$/;"	p	language:C++
+bm_map_mat4	core/src/core/ext/binary_mapper.c	/^bm_map_mat4(BinaryMapper *mapper, mat4 m)$/;"	f	language:C
+bm_map_mat4	core/src/core/ext/binary_mapper.h	/^void          bm_map_mat4(BinaryMapper *mapper, mat4 m);$/;"	p	language:C++
+bm_map_mesh_bundle	core/src/core/ext/binary_mapper_ext.c	/^bm_map_mesh_bundle(BinaryMapper *mapper, MeshBundle *mb)$/;"	f	language:C
+bm_map_mesh_bundle	core/src/core/ext/binary_mapper_ext.h	/^void bm_map_mesh_bundle(BinaryMapper *mapper, MeshBundle *mb);$/;"	p	language:C++
+bm_map_mesh_data	core/src/core/ext/binary_mapper_ext.c	/^bm_map_mesh_data(BinaryMapper *mapper, MeshData *md)$/;"	f	language:C	file:
+bm_map_s16	core/src/core/ext/binary_mapper.c	/^bm_map_s16(BinaryMapper *mapper, s16 *data)$/;"	f	language:C
+bm_map_s16	core/src/core/ext/binary_mapper.h	/^void          bm_map_s16(BinaryMapper *mapper, s16 *data);$/;"	p	language:C++
+bm_map_s32	core/src/core/ext/binary_mapper.c	/^bm_map_s32(BinaryMapper *mapper, s32 *data)$/;"	f	language:C
+bm_map_s32	core/src/core/ext/binary_mapper.h	/^void          bm_map_s32(BinaryMapper *mapper, s32 *data);$/;"	p	language:C++
+bm_map_s8	core/src/core/ext/binary_mapper.c	/^bm_map_s8(BinaryMapper *mapper, s8 *data, size_t len)$/;"	f	language:C
+bm_map_s8	core/src/core/ext/binary_mapper.h	/^void          bm_map_s8(BinaryMapper *mapper, s8 *data, size_t len);$/;"	p	language:C++
+bm_map_skeleton_anim_data	core/src/core/ext/binary_mapper_ext.c	/^bm_map_skeleton_anim_data(BinaryMapper *mapper, SkeletonAnimData *anim_data)$/;"	f	language:C	file:
+bm_map_skeleton_data	core/src/core/ext/binary_mapper_ext.c	/^bm_map_skeleton_data(BinaryMapper *mapper, SkeletonData *skel_data)$/;"	f	language:C
+bm_map_skeleton_data	core/src/core/ext/binary_mapper_ext.h	/^void bm_map_skeleton_data(BinaryMapper *mapper, SkeletonData *skel_data);$/;"	p	language:C++
+bm_map_string	core/src/core/ext/binary_mapper.c	/^bm_map_string(BinaryMapper *mapper, char *str, u32 str_len)$/;"	f	language:C
+bm_map_string	core/src/core/ext/binary_mapper.h	/^void          bm_map_string(BinaryMapper *mapper, char *str, u32 str_len);$/;"	p	language:C++
+bm_map_u16	core/src/core/ext/binary_mapper.c	/^bm_map_u16(BinaryMapper *mapper, u16 *data)$/;"	f	language:C
+bm_map_u16	core/src/core/ext/binary_mapper.h	/^void          bm_map_u16(BinaryMapper *mapper, u16 *data);$/;"	p	language:C++
+bm_map_u32	core/src/core/ext/binary_mapper.c	/^bm_map_u32(BinaryMapper *mapper, u32 *data)$/;"	f	language:C
+bm_map_u32	core/src/core/ext/binary_mapper.h	/^void          bm_map_u32(BinaryMapper *mapper, u32 *data);$/;"	p	language:C++
+bm_map_u64	core/src/core/ext/binary_mapper.c	/^bm_map_u64(BinaryMapper *mapper, u64 *data)$/;"	f	language:C
+bm_map_u64	core/src/core/ext/binary_mapper.h	/^void          bm_map_u64(BinaryMapper *mapper, u64 *data);$/;"	p	language:C++
+bm_map_u8	core/src/core/ext/binary_mapper.c	/^bm_map_u8(BinaryMapper *mapper, u8 *data, size_t len)$/;"	f	language:C
+bm_map_u8	core/src/core/ext/binary_mapper.h	/^void          bm_map_u8(BinaryMapper *mapper, u8 *data, size_t len);$/;"	p	language:C++
+bm_map_vec2	core/src/core/ext/binary_mapper.c	/^bm_map_vec2(BinaryMapper *mapper, vec2 v)$/;"	f	language:C
+bm_map_vec2	core/src/core/ext/binary_mapper.h	/^void          bm_map_vec2(BinaryMapper *mapper, vec2 v);$/;"	p	language:C++
+bm_map_vec3	core/src/core/ext/binary_mapper.c	/^bm_map_vec3(BinaryMapper *mapper, vec3 v)$/;"	f	language:C
+bm_map_vec3	core/src/core/ext/binary_mapper.h	/^void          bm_map_vec3(BinaryMapper *mapper, vec3 v);$/;"	p	language:C++
+bm_map_vec4	core/src/core/ext/binary_mapper.c	/^bm_map_vec4(BinaryMapper *mapper, vec4 v)$/;"	f	language:C
+bm_map_vec4	core/src/core/ext/binary_mapper.h	/^void          bm_map_vec4(BinaryMapper *mapper, vec4 v);$/;"	p	language:C++
+bone_anim_count	core/src/core/data/skeleton_data.h	/^	u32 bone_anim_count;$/;"	m	language:C++	struct:__anon19
+bone_anim_count	core/src/core/data/skeleton_data.h	/^	u32 bone_anim_count;$/;"	m	language:C++	struct:__anon5
+bone_anims	core/src/core/data/skeleton_data.h	/^	BoneAnimData *bone_anims;$/;"	m	language:C++	struct:__anon19
+bone_anims	core/src/core/data/skeleton_data.h	/^	BoneAnimData *bone_anims;$/;"	m	language:C++	struct:__anon5
+bone_count	core/src/core/data/skeleton_data.h	/^	u32 bone_count;$/;"	m	language:C++	struct:__anon21
+bone_count	core/src/core/data/skeleton_data.h	/^	u32 bone_count;$/;"	m	language:C++	struct:__anon7
+bones	core/src/core/data/skeleton_data.h	/^	BoneData *bones;$/;"	m	language:C++	struct:__anon21
+bones	core/src/core/data/skeleton_data.h	/^	BoneData *bones;$/;"	m	language:C++	struct:__anon7
+buffer	core/src/core/ext/binary_mapper.h	/^    u8     *buffer;$/;"	m	language:C++	struct:__anon13
+buffer	core/src/core/ext/binary_mapper.h	/^    u8     *buffer;$/;"	m	language:C++	struct:__anon27
+buffer_size	core/src/core/ext/binary_mapper.h	/^    size_t buffer_size;$/;"	m	language:C++	struct:__anon13
+buffer_size	core/src/core/ext/binary_mapper.h	/^    size_t buffer_size;$/;"	m	language:C++	struct:__anon27
+cached	core/src/core/data/mesh_bundle.h	/^	bool cached;$/;"	m	language:C++	struct:__anon16
+cached	core/src/core/data/mesh_bundle.h	/^	bool cached;$/;"	m	language:C++	struct:__anon2
+capacity	core/src/core/ext/stack.c	/^    size_t capacity;$/;"	m	language:C	struct:Stack	file:
+cglm_affine_h	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	34;"	d	language:C++
+cglm_affine_mat_avx_h	/mnt/data/code/c/libs/cglm/include/cglm/simd/avx/affine.h	9;"	d	language:C++
+cglm_affine_mat_h	/mnt/data/code/c/libs/cglm/include/cglm/affine-mat.h	15;"	d	language:C++
+cglm_affine_mat_sse2_h	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/affine.h	9;"	d	language:C++
+cglm_bezier_h	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	9;"	d	language:C++
+cglm_box_h	/mnt/data/code/c/libs/cglm/include/cglm/box.h	9;"	d	language:C++
+cglm_call_h	/mnt/data/code/c/libs/cglm/include/cglm/call.h	9;"	d	language:C++
+cglm_color_h	/mnt/data/code/c/libs/cglm/include/cglm/color.h	9;"	d	language:C++
+cglm_common_h	/mnt/data/code/c/libs/cglm/include/cglm/common.h	9;"	d	language:C++
+cglm_curve_h	/mnt/data/code/c/libs/cglm/include/cglm/curve.h	9;"	d	language:C++
+cglm_ease_h	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	9;"	d	language:C++
+cglm_euler_h	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	36;"	d	language:C++
+cglm_frustum_h	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	9;"	d	language:C++
+cglm_h	/mnt/data/code/c/libs/cglm/include/cglm/cglm.h	9;"	d	language:C++
+cglm_intrin_h	/mnt/data/code/c/libs/cglm/include/cglm/simd/intrin.h	9;"	d	language:C++
+cglm_io_h	/mnt/data/code/c/libs/cglm/include/cglm/io.h	19;"	d	language:C++
+cglm_mat3_h	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	36;"	d	language:C++
+cglm_mat3_sse_h	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat3.h	9;"	d	language:C++
+cglm_mat4_neon_h	/mnt/data/code/c/libs/cglm/include/cglm/simd/neon/mat4.h	9;"	d	language:C++
+cglm_mat_h	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	49;"	d	language:C++
+cglm_mat_simd_avx_h	/mnt/data/code/c/libs/cglm/include/cglm/simd/avx/mat4.h	9;"	d	language:C++
+cglm_mat_sse_h	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat4.h	9;"	d	language:C++
+cglm_plane_h	/mnt/data/code/c/libs/cglm/include/cglm/plane.h	9;"	d	language:C++
+cglm_project_h	/mnt/data/code/c/libs/cglm/include/cglm/project.h	9;"	d	language:C++
+cglm_quat_h	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	52;"	d	language:C++
+cglm_quat_simd_h	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/quat.h	9;"	d	language:C++
+cglm_simd_arm_h	/mnt/data/code/c/libs/cglm/include/cglm/simd/arm.h	9;"	d	language:C++
+cglm_simd_x86_h	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	9;"	d	language:C++
+cglm_sphere_h	/mnt/data/code/c/libs/cglm/include/cglm/sphere.h	9;"	d	language:C++
+cglm_types_h	/mnt/data/code/c/libs/cglm/include/cglm/types.h	9;"	d	language:C++
+cglm_util_h	/mnt/data/code/c/libs/cglm/include/cglm/util.h	19;"	d	language:C++
+cglm_vcam_h	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	60;"	d	language:C++
+cglm_vec3_ext_h	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	30;"	d	language:C++
+cglm_vec3_h	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	81;"	d	language:C++
+cglm_vec4_ext_h	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	30;"	d	language:C++
+cglm_vec4_h	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	61;"	d	language:C++
+cglm_version_h	/mnt/data/code/c/libs/cglm/include/cglm/version.h	9;"	d	language:C++
+cglmc_affine_h	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	9;"	d	language:C++
+cglmc_bezier_h	/mnt/data/code/c/libs/cglm/include/cglm/call/bezier.h	9;"	d	language:C++
+cglmc_box_h	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	9;"	d	language:C++
+cglmc_cam_h	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	9;"	d	language:C++
+cglmc_curve_h	/mnt/data/code/c/libs/cglm/include/cglm/call/curve.h	9;"	d	language:C++
+cglmc_ease_h	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	9;"	d	language:C++
+cglmc_euler_h	/mnt/data/code/c/libs/cglm/include/cglm/call/euler.h	9;"	d	language:C++
+cglmc_frustum_h	/mnt/data/code/c/libs/cglm/include/cglm/call/frustum.h	9;"	d	language:C++
+cglmc_io_h	/mnt/data/code/c/libs/cglm/include/cglm/call/io.h	9;"	d	language:C++
+cglmc_mat3_h	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	9;"	d	language:C++
+cglmc_mat_h	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	9;"	d	language:C++
+cglmc_plane_h	/mnt/data/code/c/libs/cglm/include/cglm/call/plane.h	9;"	d	language:C++
+cglmc_project_h	/mnt/data/code/c/libs/cglm/include/cglm/call/project.h	9;"	d	language:C++
+cglmc_quat_h	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	9;"	d	language:C++
+cglmc_sphere_h	/mnt/data/code/c/libs/cglm/include/cglm/call/sphere.h	9;"	d	language:C++
+cglmc_vec3_h	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	9;"	d	language:C++
+cglmc_vec4_h	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	9;"	d	language:C++
+cleanup_cb	core/src/core/ext/logger.c	/^static void (*cleanup_cb)(void);$/;"	v	language:C	file:
+component_masks	core/src/core/ecs/entity_master.h	/^    u64   component_masks[MAX_ENTITIES];$/;"	m	language:C++	struct:EntityMaster
+component_pool_destroy	core/src/core/ecs/component_pool.c	/^component_pool_destroy(ComponentPool *pool)$/;"	f	language:C
+component_pool_destroy	core/src/core/ecs/component_pool.h	/^void		  component_pool_destroy(ComponentPool *pool);$/;"	p	language:C++
+component_pool_make	core/src/core/ecs/component_pool.c	/^component_pool_make(u32 size, u32 count)$/;"	f	language:C
+component_pool_make	core/src/core/ecs/component_pool.h	/^ComponentPool component_pool_make(u32 size, u32 count);$/;"	p	language:C++
+components	core/src/core/ecs/entity_master.h	/^    u32   components[MAX_ENTITIES][COMPONENT_COUNT];$/;"	m	language:C++	struct:EntityMaster
+count	core/src/core/ecs/component_pool.h	/^	u32 count;$/;"	m	language:C++	struct:__anon11
+count	core/src/core/ecs/component_pool.h	/^	u32 count;$/;"	m	language:C++	struct:__anon25
+data	core/src/core/ecs/component_pool.h	/^	void *data;$/;"	m	language:C++	struct:__anon11
+data	core/src/core/ecs/component_pool.h	/^	void *data;$/;"	m	language:C++	struct:__anon25
+data	core/src/core/ext/stack.c	/^    u32 *data;$/;"	m	language:C	struct:Stack	file:
+data_len	core/src/core/ext/binary_mapper.h	/^    size_t data_len;$/;"	m	language:C++	struct:__anon13
+data_len	core/src/core/ext/binary_mapper.h	/^    size_t data_len;$/;"	m	language:C++	struct:__anon27
+duration	core/src/core/data/skeleton_data.h	/^	f32 duration;$/;"	m	language:C++	struct:__anon19
+duration	core/src/core/data/skeleton_data.h	/^	f32 duration;$/;"	m	language:C++	struct:__anon5
+empty	core/src/core/ext/stack.c	/^    bool empty;$/;"	m	language:C	struct:Stack	file:
+entity_add_component	core/src/core/ecs/entity_master.c	/^entity_add_component(EntityMaster *master, Entity e, ComponentType type, void *component_data)$/;"	f	language:C
+entity_add_component	core/src/core/ecs/entity_master.h	/^void          entity_add_component(EntityMaster *master, Entity e, ComponentType type, void *component_data);$/;"	p	language:C++
+entity_destroy	core/src/core/ecs/entity_master.c	/^entity_destroy(EntityMaster *master, Entity e)$/;"	f	language:C
+entity_destroy	core/src/core/ecs/entity_master.h	/^void          entity_destroy(EntityMaster *master, Entity e);$/;"	p	language:C++
+entity_disable_component	core/src/core/ecs/entity_master.c	/^entity_disable_component(EntityMaster *master, Entity e, ComponentType type)$/;"	f	language:C
+entity_disable_component	core/src/core/ecs/entity_master.h	/^void          entity_disable_component(EntityMaster *master, Entity e, ComponentType type);$/;"	p	language:C++
+entity_enable_component	core/src/core/ecs/entity_master.c	/^entity_enable_component(EntityMaster *master, Entity e, ComponentType type)$/;"	f	language:C
+entity_enable_component	core/src/core/ecs/entity_master.h	/^void          entity_enable_component(EntityMaster *master, Entity e, ComponentType type);$/;"	p	language:C++
+entity_get_component	core/src/core/ecs/entity_master.c	/^entity_get_component(EntityMaster *master, Entity e, ComponentType type)$/;"	f	language:C
+entity_get_component	core/src/core/ecs/entity_master.h	/^void*         entity_get_component(EntityMaster *master, Entity e, ComponentType type);$/;"	p	language:C++
+entity_get_mask	core/src/core/ecs/entity_master.h	/^u64           entity_get_mask(EntityMaster *master, Entity e);$/;"	p	language:C++
+entity_get_version	core/src/core/ecs/entity_master.h	/^u32           entity_get_version(EntityMaster *master, Entity e);$/;"	p	language:C++
+entity_make	core/src/core/ecs/entity_master.c	/^entity_make(EntityMaster *master)$/;"	f	language:C
+entity_make	core/src/core/ecs/entity_master.h	/^Entity        entity_make(EntityMaster *master);$/;"	p	language:C++
+entity_master_destroy	core/src/core/ecs/entity_master.c	/^entity_master_destroy(EntityMaster *master)$/;"	f	language:C
+entity_master_destroy	core/src/core/ecs/entity_master.h	/^void          entity_master_destroy(EntityMaster *master);$/;"	p	language:C++
+entity_master_make	core/src/core/ecs/entity_master.c	/^entity_master_make(void)$/;"	f	language:C
+entity_master_make	core/src/core/ecs/entity_master.h	/^EntityMaster* entity_master_make(void);$/;"	p	language:C++
+entity_master_run_systems	core/src/core/ecs/entity_master.c	/^entity_master_run_systems(EntityMaster *master)$/;"	f	language:C
+entity_master_run_systems	core/src/core/ecs/entity_master.h	/^void          entity_master_run_systems(EntityMaster *master);$/;"	p	language:C++
+entity_print	core/src/core/ecs/entity_master.c	/^entity_print(EntityMaster *master, Entity e)$/;"	f	language:C
+entity_print	core/src/core/ecs/entity_master.h	/^void          entity_print(EntityMaster *master, Entity e);$/;"	p	language:C++
+entity_remove_component	core/src/core/ecs/entity_master.c	/^entity_remove_component(EntityMaster *master, Entity e, ComponentType type)$/;"	f	language:C
+entity_remove_component	core/src/core/ecs/entity_master.h	/^void          entity_remove_component(EntityMaster *master, Entity e, ComponentType type);$/;"	p	language:C++
+entity_valid	core/src/core/ecs/entity_master.c	/^entity_valid(EntityMaster *master, Entity e)$/;"	f	language:C
+entity_valid	core/src/core/ecs/entity_master.h	/^bool          entity_valid(EntityMaster *master, Entity e);$/;"	p	language:C++
+f32	core/src/core/ext/sugar.h	/^typedef float    f32;$/;"	t	language:C++
+f64	core/src/core/ext/sugar.h	/^typedef double   f64;$/;"	t	language:C++
+glm_aabb_aabb	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_aabb(vec3 box[2], vec3 other[2]) {$/;"	f	language:C++
+glm_aabb_center	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_center(vec3 box[2], vec3 dest) {$/;"	f	language:C++
+glm_aabb_contains	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_contains(vec3 box[2], vec3 other[2]) {$/;"	f	language:C++
+glm_aabb_crop	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_crop(vec3 box[2], vec3 cropBox[2], vec3 dest[2]) {$/;"	f	language:C++
+glm_aabb_crop_until	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_crop_until(vec3 box[2],$/;"	f	language:C++
+glm_aabb_frustum	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_frustum(vec3 box[2], vec4 planes[6]) {$/;"	f	language:C++
+glm_aabb_invalidate	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_invalidate(vec3 box[2]) {$/;"	f	language:C++
+glm_aabb_isvalid	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_isvalid(vec3 box[2]) {$/;"	f	language:C++
+glm_aabb_merge	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_merge(vec3 box1[2], vec3 box2[2], vec3 dest[2]) {$/;"	f	language:C++
+glm_aabb_point	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_point(vec3 box[2], vec3 point) {$/;"	f	language:C++
+glm_aabb_print	/mnt/data/code/c/libs/cglm/include/cglm/io.h	/^glm_aabb_print(vec3                    bbox[2],$/;"	f	language:C++
+glm_aabb_radius	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_radius(vec3 box[2]) {$/;"	f	language:C++
+glm_aabb_size	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_size(vec3 box[2]) {$/;"	f	language:C++
+glm_aabb_sphere	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_sphere(vec3 box[2], vec4 s) {$/;"	f	language:C++
+glm_aabb_transform	/mnt/data/code/c/libs/cglm/include/cglm/box.h	/^glm_aabb_transform(vec3 box[2], mat4 m, vec3 dest[2]) {$/;"	f	language:C++
+glm_bezier	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	/^glm_bezier(float s, float p0, float c0, float c1, float p1) {$/;"	f	language:C++
+glm_clamp	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_clamp(float val, float minVal, float maxVal) {$/;"	f	language:C++
+glm_clamp_zo	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_clamp_zo(float val) {$/;"	f	language:C++
+glm_cross	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_cross(vec3 a, vec3 b, vec3 d) {$/;"	f	language:C++
+glm_decasteljau	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	/^glm_decasteljau(float prm, float p0, float c0, float c1, float p1) {$/;"	f	language:C++
+glm_decompose	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_decompose(mat4 m, vec4 t, mat4 r, vec3 s) {$/;"	f	language:C++
+glm_decompose_rs	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_decompose_rs(mat4 m, mat4 r, vec3 s) {$/;"	f	language:C++
+glm_decompose_scalev	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_decompose_scalev(mat4 m, vec3 s) {$/;"	f	language:C++
+glm_deg	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_deg(float rad) {$/;"	f	language:C++
+glm_dot	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_dot(vec3 a, vec3 b) {$/;"	f	language:C++
+glm_ease_back_in	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_back_in(float t) {$/;"	f	language:C++
+glm_ease_back_inout	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_back_inout(float t) {$/;"	f	language:C++
+glm_ease_back_out	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_back_out(float t) {$/;"	f	language:C++
+glm_ease_bounce_in	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_bounce_in(float t) {$/;"	f	language:C++
+glm_ease_bounce_inout	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_bounce_inout(float t) {$/;"	f	language:C++
+glm_ease_bounce_out	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_bounce_out(float t) {$/;"	f	language:C++
+glm_ease_circ_in	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_circ_in(float t) {$/;"	f	language:C++
+glm_ease_circ_inout	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_circ_inout(float t) {$/;"	f	language:C++
+glm_ease_circ_out	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_circ_out(float t) {$/;"	f	language:C++
+glm_ease_cubic_in	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_cubic_in(float t) {$/;"	f	language:C++
+glm_ease_cubic_inout	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_cubic_inout(float t) {$/;"	f	language:C++
+glm_ease_cubic_out	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_cubic_out(float t) {$/;"	f	language:C++
+glm_ease_elast_in	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_elast_in(float t) {$/;"	f	language:C++
+glm_ease_elast_inout	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_elast_inout(float t) {$/;"	f	language:C++
+glm_ease_elast_out	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_elast_out(float t) {$/;"	f	language:C++
+glm_ease_exp_in	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_exp_in(float t) {$/;"	f	language:C++
+glm_ease_exp_inout	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_exp_inout(float t) {$/;"	f	language:C++
+glm_ease_exp_out	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_exp_out(float t) {$/;"	f	language:C++
+glm_ease_linear	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_linear(float t) {$/;"	f	language:C++
+glm_ease_quad_in	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_quad_in(float t) {$/;"	f	language:C++
+glm_ease_quad_inout	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_quad_inout(float t) {$/;"	f	language:C++
+glm_ease_quad_out	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_quad_out(float t) {$/;"	f	language:C++
+glm_ease_quart_in	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_quart_in(float t) {$/;"	f	language:C++
+glm_ease_quart_inout	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_quart_inout(float t) {$/;"	f	language:C++
+glm_ease_quart_out	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_quart_out(float t) {$/;"	f	language:C++
+glm_ease_quint_in	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_quint_in(float t) {$/;"	f	language:C++
+glm_ease_quint_inout	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_quint_inout(float t) {$/;"	f	language:C++
+glm_ease_quint_out	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_quint_out(float t) {$/;"	f	language:C++
+glm_ease_sine_in	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_sine_in(float t) {$/;"	f	language:C++
+glm_ease_sine_inout	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_sine_inout(float t) {$/;"	f	language:C++
+glm_ease_sine_out	/mnt/data/code/c/libs/cglm/include/cglm/ease.h	/^glm_ease_sine_out(float t) {$/;"	f	language:C++
+glm_eq	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_eq(float a, float b) {$/;"	f	language:C++
+glm_euler	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^glm_euler(vec3 angles, mat4 dest) {$/;"	f	language:C++
+glm_euler_angles	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^glm_euler_angles(mat4 m, vec3 dest) {$/;"	f	language:C++
+glm_euler_by_order	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^glm_euler_by_order(vec3 angles, glm_euler_sq ord, mat4 dest) {$/;"	f	language:C++
+glm_euler_order	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^glm_euler_order(int ord[3]) {$/;"	f	language:C++
+glm_euler_sq	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^typedef enum glm_euler_sq {$/;"	g	language:C++
+glm_euler_sq	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^} glm_euler_sq;$/;"	t	language:C++	typeref:enum:glm_euler_sq
+glm_euler_xyz	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^glm_euler_xyz(vec3 angles, mat4 dest) {$/;"	f	language:C++
+glm_euler_xzy	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^glm_euler_xzy(vec3 angles, mat4 dest) {$/;"	f	language:C++
+glm_euler_yxz	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^glm_euler_yxz(vec3 angles, mat4 dest) {$/;"	f	language:C++
+glm_euler_yzx	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^glm_euler_yzx(vec3 angles, mat4 dest) {$/;"	f	language:C++
+glm_euler_zxy	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^glm_euler_zxy(vec3 angles, mat4 dest) {$/;"	f	language:C++
+glm_euler_zyx	/mnt/data/code/c/libs/cglm/include/cglm/euler.h	/^glm_euler_zyx(vec3 angles, mat4 dest) {$/;"	f	language:C++
+glm_frustum	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_frustum(float left,$/;"	f	language:C++
+glm_frustum_box	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	/^glm_frustum_box(vec4 corners[8], mat4 m, vec3 box[2]) {$/;"	f	language:C++
+glm_frustum_center	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	/^glm_frustum_center(vec4 corners[8], vec4 dest) {$/;"	f	language:C++
+glm_frustum_corners	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	/^glm_frustum_corners(mat4 invMat, vec4 dest[8]) {$/;"	f	language:C++
+glm_frustum_corners_at	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	/^glm_frustum_corners_at(vec4  corners[8],$/;"	f	language:C++
+glm_frustum_planes	/mnt/data/code/c/libs/cglm/include/cglm/frustum.h	/^glm_frustum_planes(mat4 m, vec4 dest[6]) {$/;"	f	language:C++
+glm_hermite	/mnt/data/code/c/libs/cglm/include/cglm/bezier.h	/^glm_hermite(float s, float p0, float t0, float t1, float p1) {$/;"	f	language:C++
+glm_inv_tr	/mnt/data/code/c/libs/cglm/include/cglm/affine-mat.h	/^glm_inv_tr(mat4 mat) {$/;"	f	language:C++
+glm_inv_tr_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/affine.h	/^glm_inv_tr_sse2(mat4 mat) {$/;"	f	language:C++
+glm_ivec3_print	/mnt/data/code/c/libs/cglm/include/cglm/io.h	/^glm_ivec3_print(ivec3             vec,$/;"	f	language:C++
+glm_lerp	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_lerp(float from, float to, float t) {$/;"	f	language:C++
+glm_look	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_look(vec3 eye, vec3 dir, vec3 up, mat4 dest) {$/;"	f	language:C++
+glm_look_anyup	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_look_anyup(vec3 eye, vec3 dir, mat4 dest) {$/;"	f	language:C++
+glm_lookat	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_lookat(vec3 eye,$/;"	f	language:C++
+glm_luminance	/mnt/data/code/c/libs/cglm/include/cglm/color.h	/^glm_luminance(vec3 rgb) {$/;"	f	language:C++
+glm_make_deg	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_make_deg(float *rad) {$/;"	f	language:C++
+glm_make_rad	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_make_rad(float *deg) {$/;"	f	language:C++
+glm_mat3_copy	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_copy(mat3 mat, mat3 dest) {$/;"	f	language:C++
+glm_mat3_det	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_det(mat3 mat) {$/;"	f	language:C++
+glm_mat3_dup	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	58;"	d	language:C++
+glm_mat3_identity	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_identity(mat3 mat) {$/;"	f	language:C++
+glm_mat3_identity_array	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_identity_array(mat3 * __restrict mat, size_t count) {$/;"	f	language:C++
+glm_mat3_inv	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_inv(mat3 mat, mat3 dest) {$/;"	f	language:C++
+glm_mat3_mul	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_mul(mat3 m1, mat3 m2, mat3 dest) {$/;"	f	language:C++
+glm_mat3_mul_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat3.h	/^glm_mat3_mul_sse2(mat3 m1, mat3 m2, mat3 dest) {$/;"	f	language:C++
+glm_mat3_mulv	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_mulv(mat3 m, vec3 v, vec3 dest) {$/;"	f	language:C++
+glm_mat3_print	/mnt/data/code/c/libs/cglm/include/cglm/io.h	/^glm_mat3_print(mat3              matrix,$/;"	f	language:C++
+glm_mat3_quat	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_quat(mat3 m, versor dest) {$/;"	f	language:C++
+glm_mat3_rmc	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_rmc(vec3 r, mat3 m, vec3 c) {$/;"	f	language:C++
+glm_mat3_scale	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_scale(mat3 m, float s) {$/;"	f	language:C++
+glm_mat3_swap_col	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_swap_col(mat3 mat, int col1, int col2) {$/;"	f	language:C++
+glm_mat3_swap_row	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_swap_row(mat3 mat, int row1, int row2) {$/;"	f	language:C++
+glm_mat3_trace	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_trace(mat3 m) {$/;"	f	language:C++
+glm_mat3_transpose	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_transpose(mat3 m) {$/;"	f	language:C++
+glm_mat3_transpose_to	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_transpose_to(mat3 m, mat3 dest) {$/;"	f	language:C++
+glm_mat3_zero	/mnt/data/code/c/libs/cglm/include/cglm/mat3.h	/^glm_mat3_zero(mat3 mat) {$/;"	f	language:C++
+glm_mat4_copy	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_copy(mat4 mat, mat4 dest) {$/;"	f	language:C++
+glm_mat4_det	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_det(mat4 mat) {$/;"	f	language:C++
+glm_mat4_det_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat4.h	/^glm_mat4_det_sse2(mat4 mat) {$/;"	f	language:C++
+glm_mat4_dup	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	88;"	d	language:C++
+glm_mat4_identity	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_identity(mat4 mat) {$/;"	f	language:C++
+glm_mat4_identity	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_mat4_identity(mat4 mat);$/;"	p	language:C++
+glm_mat4_identity_array	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_identity_array(mat4 * __restrict mat, size_t count) {$/;"	f	language:C++
+glm_mat4_ins3	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_ins3(mat3 mat, mat4 dest) {$/;"	f	language:C++
+glm_mat4_inv	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_inv(mat4 mat, mat4 dest) {$/;"	f	language:C++
+glm_mat4_inv_fast	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_inv_fast(mat4 mat, mat4 dest) {$/;"	f	language:C++
+glm_mat4_inv_fast_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat4.h	/^glm_mat4_inv_fast_sse2(mat4 mat, mat4 dest) {$/;"	f	language:C++
+glm_mat4_inv_precise	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	91;"	d	language:C++
+glm_mat4_inv_precise_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat4.h	15;"	d	language:C++
+glm_mat4_inv_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat4.h	/^glm_mat4_inv_sse2(mat4 mat, mat4 dest) {$/;"	f	language:C++
+glm_mat4_mul	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_mat4_mul(mat4 m1, mat4 m2, mat4 dest);$/;"	p	language:C++
+glm_mat4_mul	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_mul(mat4 m1, mat4 m2, mat4 dest) {$/;"	f	language:C++
+glm_mat4_mulN	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_mulN(mat4 * __restrict matrices[], uint32_t len, mat4 dest) {$/;"	f	language:C++
+glm_mat4_mul_avx	/mnt/data/code/c/libs/cglm/include/cglm/simd/avx/mat4.h	/^glm_mat4_mul_avx(mat4 m1, mat4 m2, mat4 dest) {$/;"	f	language:C++
+glm_mat4_mul_neon	/mnt/data/code/c/libs/cglm/include/cglm/simd/neon/mat4.h	/^glm_mat4_mul_neon(mat4 m1, mat4 m2, mat4 dest) {$/;"	f	language:C++
+glm_mat4_mul_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat4.h	/^glm_mat4_mul_sse2(mat4 m1, mat4 m2, mat4 dest) {$/;"	f	language:C++
+glm_mat4_mulv	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_mulv(mat4 m, vec4 v, vec4 dest) {$/;"	f	language:C++
+glm_mat4_mulv	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_mat4_mulv(mat4 m, vec4 v, vec4 dest);$/;"	p	language:C++
+glm_mat4_mulv3	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_mulv3(mat4 m, vec3 v, float last, vec3 dest) {$/;"	f	language:C++
+glm_mat4_mulv_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat4.h	/^glm_mat4_mulv_sse2(mat4 m, vec4 v, vec4 dest) {$/;"	f	language:C++
+glm_mat4_pick3	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_pick3(mat4 mat, mat3 dest) {$/;"	f	language:C++
+glm_mat4_pick3t	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_pick3t(mat4 mat, mat3 dest) {$/;"	f	language:C++
+glm_mat4_print	/mnt/data/code/c/libs/cglm/include/cglm/io.h	/^glm_mat4_print(mat4              matrix,$/;"	f	language:C++
+glm_mat4_quat	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_quat(mat4 m, versor dest) {$/;"	f	language:C++
+glm_mat4_rmc	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_rmc(vec4 r, mat4 m, vec4 c) {$/;"	f	language:C++
+glm_mat4_scale	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_scale(mat4 m, float s) {$/;"	f	language:C++
+glm_mat4_scale_p	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_scale_p(mat4 m, float s) {$/;"	f	language:C++
+glm_mat4_scale_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat4.h	/^glm_mat4_scale_sse2(mat4 m, float s) {$/;"	f	language:C++
+glm_mat4_swap_col	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_swap_col(mat4 mat, int col1, int col2) {$/;"	f	language:C++
+glm_mat4_swap_row	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_swap_row(mat4 mat, int row1, int row2) {$/;"	f	language:C++
+glm_mat4_trace	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_trace(mat4 m) {$/;"	f	language:C++
+glm_mat4_trace3	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_trace3(mat4 m) {$/;"	f	language:C++
+glm_mat4_transp_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/mat4.h	/^glm_mat4_transp_sse2(mat4 m, mat4 dest) {$/;"	f	language:C++
+glm_mat4_transpose	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_transpose(mat4 m) {$/;"	f	language:C++
+glm_mat4_transpose_to	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_transpose_to(mat4 m, mat4 dest) {$/;"	f	language:C++
+glm_mat4_ucopy	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_ucopy(mat4 mat, mat4 dest) {$/;"	f	language:C++
+glm_mat4_udup	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	87;"	d	language:C++
+glm_mat4_zero	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^glm_mat4_zero(mat4 mat) {$/;"	f	language:C++
+glm_max	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_max(float a, float b) {$/;"	f	language:C++
+glm_min	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_min(float a, float b) {$/;"	f	language:C++
+glm_mul	/mnt/data/code/c/libs/cglm/include/cglm/affine-mat.h	/^glm_mul(mat4 m1, mat4 m2, mat4 dest) {$/;"	f	language:C++
+glm_mul_avx	/mnt/data/code/c/libs/cglm/include/cglm/simd/avx/affine.h	/^glm_mul_avx(mat4 m1, mat4 m2, mat4 dest) {$/;"	f	language:C++
+glm_mul_rot	/mnt/data/code/c/libs/cglm/include/cglm/affine-mat.h	/^glm_mul_rot(mat4 m1, mat4 m2, mat4 dest) {$/;"	f	language:C++
+glm_mul_rot	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_mul_rot(mat4 m1, mat4 m2, mat4 dest);$/;"	p	language:C++
+glm_mul_rot_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/affine.h	/^glm_mul_rot_sse2(mat4 m1, mat4 m2, mat4 dest) {$/;"	f	language:C++
+glm_mul_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/affine.h	/^glm_mul_sse2(mat4 m1, mat4 m2, mat4 dest) {$/;"	f	language:C++
+glm_normalize	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_normalize(vec3 v) {$/;"	f	language:C++
+glm_normalize_to	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_normalize_to(vec3 v, vec3 dest) {$/;"	f	language:C++
+glm_ortho	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_ortho(float left,$/;"	f	language:C++
+glm_ortho_aabb	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_ortho_aabb(vec3 box[2], mat4 dest) {$/;"	f	language:C++
+glm_ortho_aabb_p	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_ortho_aabb_p(vec3 box[2], float padding, mat4 dest) {$/;"	f	language:C++
+glm_ortho_aabb_pz	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_ortho_aabb_pz(vec3 box[2], float padding, mat4 dest) {$/;"	f	language:C++
+glm_ortho_default	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_ortho_default(float aspect, mat4 dest) {$/;"	f	language:C++
+glm_ortho_default_s	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_ortho_default_s(float aspect,$/;"	f	language:C++
+glm_percent	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_percent(float from, float to, float current) {$/;"	f	language:C++
+glm_percentc	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_percentc(float from, float to, float current) {$/;"	f	language:C++
+glm_persp_aspect	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_aspect(mat4 proj) {$/;"	f	language:C++
+glm_persp_decomp	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_decomp(mat4 proj,$/;"	f	language:C++
+glm_persp_decomp_far	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_decomp_far(mat4 proj, float * __restrict farVal) {$/;"	f	language:C++
+glm_persp_decomp_near	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_decomp_near(mat4 proj, float * __restrict nearVal) {$/;"	f	language:C++
+glm_persp_decomp_x	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_decomp_x(mat4 proj,$/;"	f	language:C++
+glm_persp_decomp_y	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_decomp_y(mat4 proj,$/;"	f	language:C++
+glm_persp_decomp_z	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_decomp_z(mat4 proj,$/;"	f	language:C++
+glm_persp_decompv	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_decompv(mat4 proj, float dest[6]) {$/;"	f	language:C++
+glm_persp_fovy	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_fovy(mat4 proj) {$/;"	f	language:C++
+glm_persp_move_far	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_move_far(mat4 proj, float deltaFar) {$/;"	f	language:C++
+glm_persp_sizes	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_persp_sizes(mat4 proj, float fovy, vec4 dest) {$/;"	f	language:C++
+glm_perspective	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_perspective(float fovy,$/;"	f	language:C++
+glm_perspective_default	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_perspective_default(float aspect, mat4 dest) {$/;"	f	language:C++
+glm_perspective_resize	/mnt/data/code/c/libs/cglm/include/cglm/cam.h	/^glm_perspective_resize(float aspect, mat4 proj) {$/;"	f	language:C++
+glm_plane_normalize	/mnt/data/code/c/libs/cglm/include/cglm/plane.h	/^glm_plane_normalize(vec4 plane) {$/;"	f	language:C++
+glm_pow2	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_pow2(float x) {$/;"	f	language:C++
+glm_project	/mnt/data/code/c/libs/cglm/include/cglm/project.h	/^glm_project(vec3 pos, mat4 m, vec4 vp, vec3 dest) {$/;"	f	language:C++
+glm_quat	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat(versor q, float angle, float x, float y, float z) {$/;"	f	language:C++
+glm_quat_add	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_add(versor p, versor q, versor dest) {$/;"	f	language:C++
+glm_quat_angle	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_angle(versor q) {$/;"	f	language:C++
+glm_quat_axis	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_axis(versor q, versor dest) {$/;"	f	language:C++
+glm_quat_conjugate	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_conjugate(versor q, versor dest) {$/;"	f	language:C++
+glm_quat_copy	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_copy(versor q, versor dest) {$/;"	f	language:C++
+glm_quat_dot	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_dot(versor p, versor q) {$/;"	f	language:C++
+glm_quat_for	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_for(vec3 dir, vec3 fwd, vec3 up, versor dest) {$/;"	f	language:C++
+glm_quat_forp	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_forp(vec3 from, vec3 to, vec3 fwd, vec3 up, versor dest) {$/;"	f	language:C++
+glm_quat_identity	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_identity(versor q) {$/;"	f	language:C++
+glm_quat_identity_array	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_identity_array(versor * __restrict q, size_t count) {$/;"	f	language:C++
+glm_quat_imag	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_imag(versor q, vec3 dest) {$/;"	f	language:C++
+glm_quat_imaglen	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_imaglen(versor q) {$/;"	f	language:C++
+glm_quat_imagn	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_imagn(versor q, vec3 dest) {$/;"	f	language:C++
+glm_quat_init	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_init(versor q, float x, float y, float z, float w) {$/;"	f	language:C++
+glm_quat_inv	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_inv(versor q, versor dest) {$/;"	f	language:C++
+glm_quat_lerp	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_lerp(versor from, versor to, float t, versor dest) {$/;"	f	language:C++
+glm_quat_look	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_look(vec3 eye, versor ori, mat4 dest) {$/;"	f	language:C++
+glm_quat_mat3	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_mat3(versor q, mat3 dest) {$/;"	f	language:C++
+glm_quat_mat3t	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_mat3t(versor q, mat3 dest) {$/;"	f	language:C++
+glm_quat_mat4	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_mat4(versor q, mat4 dest) {$/;"	f	language:C++
+glm_quat_mat4t	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_mat4t(versor q, mat4 dest) {$/;"	f	language:C++
+glm_quat_mul	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_mul(versor p, versor q, versor dest) {$/;"	f	language:C++
+glm_quat_mul_sse2	/mnt/data/code/c/libs/cglm/include/cglm/simd/sse2/quat.h	/^glm_quat_mul_sse2(versor p, versor q, versor dest) {$/;"	f	language:C++
+glm_quat_norm	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_norm(versor q) {$/;"	f	language:C++
+glm_quat_normalize	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_normalize(versor q) {$/;"	f	language:C++
+glm_quat_normalize_to	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_normalize_to(versor q, versor dest) {$/;"	f	language:C++
+glm_quat_real	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_real(versor q) {$/;"	f	language:C++
+glm_quat_rotate	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_rotate(mat4 m, versor q, mat4 dest) {$/;"	f	language:C++
+glm_quat_rotate_at	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_rotate_at(mat4 m, versor q, vec3 pivot) {$/;"	f	language:C++
+glm_quat_rotate_atm	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_rotate_atm(mat4 m, versor q, vec3 pivot) {$/;"	f	language:C++
+glm_quat_rotatev	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_rotatev(versor q, vec3 v, vec3 dest) {$/;"	f	language:C++
+glm_quat_slerp	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_slerp(versor from, versor to, float t, versor dest) {$/;"	f	language:C++
+glm_quat_sub	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quat_sub(versor p, versor q, versor dest) {$/;"	f	language:C++
+glm_quatv	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_quatv(versor q, float angle, vec3 axis) {$/;"	f	language:C++
+glm_rad	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_rad(float deg) {$/;"	f	language:C++
+glm_rotate	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_rotate(mat4 m, float angle, vec3 axis) {$/;"	f	language:C++
+glm_rotate_at	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_rotate_at(mat4 m, vec3 pivot, float angle, vec3 axis) {$/;"	f	language:C++
+glm_rotate_atm	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_rotate_atm(mat4 m, vec3 pivot, float angle, vec3 axis) {$/;"	f	language:C++
+glm_rotate_make	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_rotate_make(mat4 m, float angle, vec3 axis) {$/;"	f	language:C++
+glm_rotate_x	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_rotate_x(mat4 m, float angle, mat4 dest) {$/;"	f	language:C++
+glm_rotate_y	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_rotate_y(mat4 m, float angle, mat4 dest) {$/;"	f	language:C++
+glm_rotate_z	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_rotate_z(mat4 m, float angle, mat4 dest) {$/;"	f	language:C++
+glm_scale	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_scale(mat4 m, vec3 v) {$/;"	f	language:C++
+glm_scale_make	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_scale_make(mat4 m, vec3 v) {$/;"	f	language:C++
+glm_scale_to	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_scale_to(mat4 m, vec3 v, mat4 dest) {$/;"	f	language:C++
+glm_scale_uni	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_scale_uni(mat4 m, float s) {$/;"	f	language:C++
+glm_sign	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_sign(int val) {$/;"	f	language:C++
+glm_signf	/mnt/data/code/c/libs/cglm/include/cglm/util.h	/^glm_signf(float val) {$/;"	f	language:C++
+glm_smc	/mnt/data/code/c/libs/cglm/include/cglm/curve.h	/^glm_smc(float s, mat4 m, vec4 c) {$/;"	f	language:C++
+glm_sphere_merge	/mnt/data/code/c/libs/cglm/include/cglm/sphere.h	/^glm_sphere_merge(vec4 s1, vec4 s2, vec4 dest) {$/;"	f	language:C++
+glm_sphere_point	/mnt/data/code/c/libs/cglm/include/cglm/sphere.h	/^glm_sphere_point(vec4 s, vec3 point) {$/;"	f	language:C++
+glm_sphere_radii	/mnt/data/code/c/libs/cglm/include/cglm/sphere.h	/^glm_sphere_radii(vec4 s) {$/;"	f	language:C++
+glm_sphere_sphere	/mnt/data/code/c/libs/cglm/include/cglm/sphere.h	/^glm_sphere_sphere(vec4 s1, vec4 s2) {$/;"	f	language:C++
+glm_sphere_transform	/mnt/data/code/c/libs/cglm/include/cglm/sphere.h	/^glm_sphere_transform(vec4 s, mat4 m, vec4 dest) {$/;"	f	language:C++
+glm_translate	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_translate(mat4 m, vec3 v) {$/;"	f	language:C++
+glm_translate	/mnt/data/code/c/libs/cglm/include/cglm/quat.h	/^glm_translate(mat4 m, vec3 v);$/;"	p	language:C++
+glm_translate_make	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_translate_make(mat4 m, vec3 v) {$/;"	f	language:C++
+glm_translate_to	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_translate_to(mat4 m, vec3 v, mat4 dest) {$/;"	f	language:C++
+glm_translate_x	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_translate_x(mat4 m, float x) {$/;"	f	language:C++
+glm_translate_y	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_translate_y(mat4 m, float y) {$/;"	f	language:C++
+glm_translate_z	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_translate_z(mat4 m, float z) {$/;"	f	language:C++
+glm_uniscaled	/mnt/data/code/c/libs/cglm/include/cglm/affine.h	/^glm_uniscaled(mat4 m) {$/;"	f	language:C++
+glm_unproject	/mnt/data/code/c/libs/cglm/include/cglm/project.h	/^glm_unproject(vec3 pos, mat4 m, vec4 vp, vec3 dest) {$/;"	f	language:C++
+glm_unprojecti	/mnt/data/code/c/libs/cglm/include/cglm/project.h	/^glm_unprojecti(vec3 pos, mat4 invMat, vec4 vp, vec3 dest) {$/;"	f	language:C++
+glm_vec3	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3(vec4 v4, vec3 dest) {$/;"	f	language:C++
+glm_vec3_add	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_add(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_addadd	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_addadd(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_adds	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_adds(vec3 v, float s, vec3 dest) {$/;"	f	language:C++
+glm_vec3_angle	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_angle(vec3 a, vec3 b) {$/;"	f	language:C++
+glm_vec3_broadcast	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_broadcast(float val, vec3 d) {$/;"	f	language:C++
+glm_vec3_center	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_center(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_clamp	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_clamp(vec3 v, float minVal, float maxVal) {$/;"	f	language:C++
+glm_vec3_copy	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_copy(vec3 a, vec3 dest) {$/;"	f	language:C++
+glm_vec3_cross	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_cross(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_crossn	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_crossn(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_distance	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_distance(vec3 a, vec3 b) {$/;"	f	language:C++
+glm_vec3_distance2	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_distance2(vec3 a, vec3 b) {$/;"	f	language:C++
+glm_vec3_div	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_div(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_divs	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_divs(vec3 v, float s, vec3 dest) {$/;"	f	language:C++
+glm_vec3_dot	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_dot(vec3 a, vec3 b) {$/;"	f	language:C++
+glm_vec3_dup	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	89;"	d	language:C++
+glm_vec3_eq	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_eq(vec3 v, float val) {$/;"	f	language:C++
+glm_vec3_eq_all	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_eq_all(vec3 v) {$/;"	f	language:C++
+glm_vec3_eq_eps	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_eq_eps(vec3 v, float val) {$/;"	f	language:C++
+glm_vec3_eqv	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_eqv(vec3 a, vec3 b) {$/;"	f	language:C++
+glm_vec3_eqv_eps	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_eqv_eps(vec3 a, vec3 b) {$/;"	f	language:C++
+glm_vec3_flipsign	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	90;"	d	language:C++
+glm_vec3_flipsign_to	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	91;"	d	language:C++
+glm_vec3_inv	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	92;"	d	language:C++
+glm_vec3_inv_to	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	93;"	d	language:C++
+glm_vec3_isinf	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_isinf(vec3 v) {$/;"	f	language:C++
+glm_vec3_isnan	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_isnan(vec3 v) {$/;"	f	language:C++
+glm_vec3_isvalid	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_isvalid(vec3 v) {$/;"	f	language:C++
+glm_vec3_lerp	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_lerp(vec3 from, vec3 to, float t, vec3 dest) {$/;"	f	language:C++
+glm_vec3_max	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_max(vec3 v) {$/;"	f	language:C++
+glm_vec3_maxadd	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_maxadd(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_maxv	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_maxv(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_min	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_min(vec3 v) {$/;"	f	language:C++
+glm_vec3_minadd	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_minadd(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_minv	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_minv(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_mul	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_mul(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_muladd	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_muladd(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_muladds	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_muladds(vec3 a, float s, vec3 dest) {$/;"	f	language:C++
+glm_vec3_mulv	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	94;"	d	language:C++
+glm_vec3_negate	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_negate(vec3 v) {$/;"	f	language:C++
+glm_vec3_negate_to	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_negate_to(vec3 v, vec3 dest) {$/;"	f	language:C++
+glm_vec3_norm	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_norm(vec3 v) {$/;"	f	language:C++
+glm_vec3_norm2	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_norm2(vec3 v) {$/;"	f	language:C++
+glm_vec3_normalize	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_normalize(vec3 v) {$/;"	f	language:C++
+glm_vec3_normalize_to	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_normalize_to(vec3 v, vec3 dest) {$/;"	f	language:C++
+glm_vec3_one	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_one(vec3 v) {$/;"	f	language:C++
+glm_vec3_ortho	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_ortho(vec3 v, vec3 dest) {$/;"	f	language:C++
+glm_vec3_print	/mnt/data/code/c/libs/cglm/include/cglm/io.h	/^glm_vec3_print(vec3              vec,$/;"	f	language:C++
+glm_vec3_proj	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_proj(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_rotate	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_rotate(vec3 v, float angle, vec3 axis) {$/;"	f	language:C++
+glm_vec3_rotate_m3	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_rotate_m3(mat3 m, vec3 v, vec3 dest) {$/;"	f	language:C++
+glm_vec3_rotate_m4	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_rotate_m4(mat4 m, vec3 v, vec3 dest) {$/;"	f	language:C++
+glm_vec3_scale	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_scale(vec3 v, float s, vec3 dest) {$/;"	f	language:C++
+glm_vec3_scale_as	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_scale_as(vec3 v, float s, vec3 dest) {$/;"	f	language:C++
+glm_vec3_sign	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_sign(vec3 v, vec3 dest) {$/;"	f	language:C++
+glm_vec3_sqrt	/mnt/data/code/c/libs/cglm/include/cglm/vec3-ext.h	/^glm_vec3_sqrt(vec3 v, vec3 dest) {$/;"	f	language:C++
+glm_vec3_sub	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_sub(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_subadd	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_subadd(vec3 a, vec3 b, vec3 dest) {$/;"	f	language:C++
+glm_vec3_subs	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_subs(vec3 v, float s, vec3 dest) {$/;"	f	language:C++
+glm_vec3_zero	/mnt/data/code/c/libs/cglm/include/cglm/vec3.h	/^glm_vec3_zero(vec3 v) {$/;"	f	language:C++
+glm_vec4	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4(vec3 v3, float last, vec4 dest) {$/;"	f	language:C++
+glm_vec4_add	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_add(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_addadd	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_addadd(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_adds	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_adds(vec4 v, float s, vec4 dest) {$/;"	f	language:C++
+glm_vec4_broadcast	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_broadcast(float val, vec4 d) {$/;"	f	language:C++
+glm_vec4_clamp	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_clamp(vec4 v, float minVal, float maxVal) {$/;"	f	language:C++
+glm_vec4_copy	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_copy(vec4 v, vec4 dest) {$/;"	f	language:C++
+glm_vec4_copy3	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_copy3(vec4 a, vec3 dest) {$/;"	f	language:C++
+glm_vec4_cubic	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_cubic(float s, vec4 dest) {$/;"	f	language:C++
+glm_vec4_distance	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_distance(vec4 a, vec4 b) {$/;"	f	language:C++
+glm_vec4_div	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_div(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_divs	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_divs(vec4 v, float s, vec4 dest) {$/;"	f	language:C++
+glm_vec4_dot	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_dot(vec4 a, vec4 b) {$/;"	f	language:C++
+glm_vec4_dup	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	69;"	d	language:C++
+glm_vec4_dup3	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	68;"	d	language:C++
+glm_vec4_eq	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_eq(vec4 v, float val) {$/;"	f	language:C++
+glm_vec4_eq_all	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_eq_all(vec4 v) {$/;"	f	language:C++
+glm_vec4_eq_eps	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_eq_eps(vec4 v, float val) {$/;"	f	language:C++
+glm_vec4_eqv	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_eqv(vec4 a, vec4 b) {$/;"	f	language:C++
+glm_vec4_eqv_eps	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_eqv_eps(vec4 a, vec4 b) {$/;"	f	language:C++
+glm_vec4_flipsign	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	70;"	d	language:C++
+glm_vec4_flipsign_to	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	71;"	d	language:C++
+glm_vec4_inv	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	72;"	d	language:C++
+glm_vec4_inv_to	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	73;"	d	language:C++
+glm_vec4_isinf	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_isinf(vec4 v) {$/;"	f	language:C++
+glm_vec4_isnan	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_isnan(vec4 v) {$/;"	f	language:C++
+glm_vec4_isvalid	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_isvalid(vec4 v) {$/;"	f	language:C++
+glm_vec4_lerp	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_lerp(vec4 from, vec4 to, float t, vec4 dest) {$/;"	f	language:C++
+glm_vec4_max	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_max(vec4 v) {$/;"	f	language:C++
+glm_vec4_maxadd	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_maxadd(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_maxv	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_maxv(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_min	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_min(vec4 v) {$/;"	f	language:C++
+glm_vec4_minadd	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_minadd(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_minv	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_minv(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_mul	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_mul(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_muladd	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_muladd(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_muladds	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_muladds(vec4 a, float s, vec4 dest) {$/;"	f	language:C++
+glm_vec4_mulv	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	74;"	d	language:C++
+glm_vec4_negate	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_negate(vec4 v) {$/;"	f	language:C++
+glm_vec4_negate_to	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_negate_to(vec4 v, vec4 dest) {$/;"	f	language:C++
+glm_vec4_norm	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_norm(vec4 v) {$/;"	f	language:C++
+glm_vec4_norm2	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_norm2(vec4 v) {$/;"	f	language:C++
+glm_vec4_normalize	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_normalize(vec4 v) {$/;"	f	language:C++
+glm_vec4_normalize_to	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_normalize_to(vec4 v, vec4 dest) {$/;"	f	language:C++
+glm_vec4_one	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_one(vec4 v) {$/;"	f	language:C++
+glm_vec4_print	/mnt/data/code/c/libs/cglm/include/cglm/io.h	/^glm_vec4_print(vec4              vec,$/;"	f	language:C++
+glm_vec4_scale	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_scale(vec4 v, float s, vec4 dest) {$/;"	f	language:C++
+glm_vec4_scale_as	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_scale_as(vec4 v, float s, vec4 dest) {$/;"	f	language:C++
+glm_vec4_sign	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_sign(vec4 v, vec4 dest) {$/;"	f	language:C++
+glm_vec4_sqrt	/mnt/data/code/c/libs/cglm/include/cglm/vec4-ext.h	/^glm_vec4_sqrt(vec4 v, vec4 dest) {$/;"	f	language:C++
+glm_vec4_sub	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_sub(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_subadd	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_subadd(vec4 a, vec4 b, vec4 dest) {$/;"	f	language:C++
+glm_vec4_subs	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_subs(vec4 v, float s, vec4 dest) {$/;"	f	language:C++
+glm_vec4_ucopy	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_ucopy(vec4 v, vec4 dest) {$/;"	f	language:C++
+glm_vec4_zero	/mnt/data/code/c/libs/cglm/include/cglm/vec4.h	/^glm_vec4_zero(vec4 v) {$/;"	f	language:C++
+glm_versor_print	/mnt/data/code/c/libs/cglm/include/cglm/io.h	/^glm_versor_print(versor            vec,$/;"	f	language:C++
+glmc_aabb_aabb	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_aabb(vec3 box[2], vec3 other[2]);$/;"	p	language:C++
+glmc_aabb_center	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_center(vec3 box[2], vec3 dest);$/;"	p	language:C++
+glmc_aabb_contains	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_contains(vec3 box[2], vec3 other[2]);$/;"	p	language:C++
+glmc_aabb_crop	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_crop(vec3 box[2], vec3 cropBox[2], vec3 dest[2]);$/;"	p	language:C++
+glmc_aabb_crop_until	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_crop_until(vec3 box[2],$/;"	p	language:C++
+glmc_aabb_frustum	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_frustum(vec3 box[2], vec4 planes[6]);$/;"	p	language:C++
+glmc_aabb_invalidate	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_invalidate(vec3 box[2]);$/;"	p	language:C++
+glmc_aabb_isvalid	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_isvalid(vec3 box[2]);$/;"	p	language:C++
+glmc_aabb_merge	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_merge(vec3 box1[2], vec3 box2[2], vec3 dest[2]);$/;"	p	language:C++
+glmc_aabb_point	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_point(vec3 box[2], vec3 point);$/;"	p	language:C++
+glmc_aabb_radius	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_radius(vec3 box[2]);$/;"	p	language:C++
+glmc_aabb_size	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_size(vec3 box[2]);$/;"	p	language:C++
+glmc_aabb_sphere	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_sphere(vec3 box[2], vec4 s);$/;"	p	language:C++
+glmc_aabb_transform	/mnt/data/code/c/libs/cglm/include/cglm/call/box.h	/^glmc_aabb_transform(vec3 box[2], mat4 m, vec3 dest[2]);$/;"	p	language:C++
+glmc_bezier	/mnt/data/code/c/libs/cglm/include/cglm/call/bezier.h	/^glmc_bezier(float s, float p0, float c0, float c1, float p1);$/;"	p	language:C++
+glmc_decasteljau	/mnt/data/code/c/libs/cglm/include/cglm/call/bezier.h	/^glmc_decasteljau(float prm, float p0, float c0, float c1, float p1);$/;"	p	language:C++
+glmc_decompose	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_decompose(mat4 m, vec4 t, mat4 r, vec3 s);$/;"	p	language:C++
+glmc_decompose_rs	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_decompose_rs(mat4 m, mat4 r, vec3 s);$/;"	p	language:C++
+glmc_decompose_scalev	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_decompose_scalev(mat4 m, vec3 s);$/;"	p	language:C++
+glmc_ease_back_in	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_back_in(float t);$/;"	p	language:C++
+glmc_ease_back_inout	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_back_inout(float t);$/;"	p	language:C++
+glmc_ease_back_out	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_back_out(float t);$/;"	p	language:C++
+glmc_ease_bounce_in	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_bounce_in(float t);$/;"	p	language:C++
+glmc_ease_bounce_inout	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_bounce_inout(float t);$/;"	p	language:C++
+glmc_ease_bounce_out	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_bounce_out(float t);$/;"	p	language:C++
+glmc_ease_circ_in	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_circ_in(float t);$/;"	p	language:C++
+glmc_ease_circ_inout	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_circ_inout(float t);$/;"	p	language:C++
+glmc_ease_circ_out	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_circ_out(float t);$/;"	p	language:C++
+glmc_ease_cubic_in	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_cubic_in(float t);$/;"	p	language:C++
+glmc_ease_cubic_inout	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_cubic_inout(float t);$/;"	p	language:C++
+glmc_ease_cubic_out	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_cubic_out(float t);$/;"	p	language:C++
+glmc_ease_elast_in	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_elast_in(float t);$/;"	p	language:C++
+glmc_ease_elast_inout	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_elast_inout(float t);$/;"	p	language:C++
+glmc_ease_elast_out	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_elast_out(float t);$/;"	p	language:C++
+glmc_ease_exp_in	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_exp_in(float t);$/;"	p	language:C++
+glmc_ease_exp_inout	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_exp_inout(float t);$/;"	p	language:C++
+glmc_ease_exp_out	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_exp_out(float t);$/;"	p	language:C++
+glmc_ease_linear	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_linear(float t);$/;"	p	language:C++
+glmc_ease_quad_in	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_quad_in(float t);$/;"	p	language:C++
+glmc_ease_quad_inout	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_quad_inout(float t);$/;"	p	language:C++
+glmc_ease_quad_out	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_quad_out(float t);$/;"	p	language:C++
+glmc_ease_quart_in	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_quart_in(float t);$/;"	p	language:C++
+glmc_ease_quart_inout	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_quart_inout(float t);$/;"	p	language:C++
+glmc_ease_quart_out	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_quart_out(float t);$/;"	p	language:C++
+glmc_ease_quint_in	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_quint_in(float t);$/;"	p	language:C++
+glmc_ease_quint_inout	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_quint_inout(float t);$/;"	p	language:C++
+glmc_ease_quint_out	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_quint_out(float t);$/;"	p	language:C++
+glmc_ease_sine_in	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_sine_in(float t);$/;"	p	language:C++
+glmc_ease_sine_inout	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_sine_inout(float t);$/;"	p	language:C++
+glmc_ease_sine_out	/mnt/data/code/c/libs/cglm/include/cglm/call/ease.h	/^glmc_ease_sine_out(float t);$/;"	p	language:C++
+glmc_euler	/mnt/data/code/c/libs/cglm/include/cglm/call/euler.h	/^glmc_euler(vec3 angles, mat4 dest);$/;"	p	language:C++
+glmc_euler_angles	/mnt/data/code/c/libs/cglm/include/cglm/call/euler.h	/^glmc_euler_angles(mat4 m, vec3 dest);$/;"	p	language:C++
+glmc_euler_by_order	/mnt/data/code/c/libs/cglm/include/cglm/call/euler.h	/^glmc_euler_by_order(vec3 angles, glm_euler_sq axis, mat4 dest);$/;"	p	language:C++
+glmc_euler_xyz	/mnt/data/code/c/libs/cglm/include/cglm/call/euler.h	/^glmc_euler_xyz(vec3 angles,  mat4 dest);$/;"	p	language:C++
+glmc_euler_xzy	/mnt/data/code/c/libs/cglm/include/cglm/call/euler.h	/^glmc_euler_xzy(vec3 angles, mat4 dest);$/;"	p	language:C++
+glmc_euler_yxz	/mnt/data/code/c/libs/cglm/include/cglm/call/euler.h	/^glmc_euler_yxz(vec3 angles, mat4 dest);$/;"	p	language:C++
+glmc_euler_yzx	/mnt/data/code/c/libs/cglm/include/cglm/call/euler.h	/^glmc_euler_yzx(vec3 angles, mat4 dest);$/;"	p	language:C++
+glmc_euler_zxy	/mnt/data/code/c/libs/cglm/include/cglm/call/euler.h	/^glmc_euler_zxy(vec3 angles, mat4 dest);$/;"	p	language:C++
+glmc_euler_zyx	/mnt/data/code/c/libs/cglm/include/cglm/call/euler.h	/^glmc_euler_zyx(vec3 angles,  mat4 dest);$/;"	p	language:C++
+glmc_frustum	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_frustum(float left,$/;"	p	language:C++
+glmc_frustum_box	/mnt/data/code/c/libs/cglm/include/cglm/call/frustum.h	/^glmc_frustum_box(vec4 corners[8], mat4 m, vec3 box[2]);$/;"	p	language:C++
+glmc_frustum_center	/mnt/data/code/c/libs/cglm/include/cglm/call/frustum.h	/^glmc_frustum_center(vec4 corners[8], vec4 dest);$/;"	p	language:C++
+glmc_frustum_corners	/mnt/data/code/c/libs/cglm/include/cglm/call/frustum.h	/^glmc_frustum_corners(mat4 invMat, vec4 dest[8]);$/;"	p	language:C++
+glmc_frustum_corners_at	/mnt/data/code/c/libs/cglm/include/cglm/call/frustum.h	/^glmc_frustum_corners_at(vec4  corners[8],$/;"	p	language:C++
+glmc_frustum_planes	/mnt/data/code/c/libs/cglm/include/cglm/call/frustum.h	/^glmc_frustum_planes(mat4 m, vec4 dest[6]);$/;"	p	language:C++
+glmc_hermite	/mnt/data/code/c/libs/cglm/include/cglm/call/bezier.h	/^glmc_hermite(float s, float p0, float t0, float t1, float p1);$/;"	p	language:C++
+glmc_inv_tr	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_inv_tr(mat4 mat);$/;"	p	language:C++
+glmc_look	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_look(vec3 eye, vec3 dir, vec3 up, mat4 dest);$/;"	p	language:C++
+glmc_look_anyup	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_look_anyup(vec3 eye, vec3 dir, mat4 dest);$/;"	p	language:C++
+glmc_lookat	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_lookat(vec3 eye, vec3 center, vec3 up, mat4 dest);$/;"	p	language:C++
+glmc_mat3_copy	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_copy(mat3 mat, mat3 dest);$/;"	p	language:C++
+glmc_mat3_det	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_det(mat3 mat);$/;"	p	language:C++
+glmc_mat3_dup	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	17;"	d	language:C++
+glmc_mat3_identity	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_identity(mat3 mat);$/;"	p	language:C++
+glmc_mat3_identity_array	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_identity_array(mat3 * __restrict mat, size_t count);$/;"	p	language:C++
+glmc_mat3_inv	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_inv(mat3 mat, mat3 dest);$/;"	p	language:C++
+glmc_mat3_mul	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_mul(mat3 m1, mat3 m2, mat3 dest);$/;"	p	language:C++
+glmc_mat3_mulv	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_mulv(mat3 m, vec3 v, vec3 dest);$/;"	p	language:C++
+glmc_mat3_print	/mnt/data/code/c/libs/cglm/include/cglm/call/io.h	/^glmc_mat3_print(mat3 matrix,$/;"	p	language:C++
+glmc_mat3_quat	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_quat(mat3 m, versor dest);$/;"	p	language:C++
+glmc_mat3_rmc	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_rmc(vec3 r, mat3 m, vec3 c);$/;"	p	language:C++
+glmc_mat3_scale	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_scale(mat3 m, float s);$/;"	p	language:C++
+glmc_mat3_swap_col	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_swap_col(mat3 mat, int col1, int col2);$/;"	p	language:C++
+glmc_mat3_swap_row	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_swap_row(mat3 mat, int row1, int row2);$/;"	p	language:C++
+glmc_mat3_trace	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_trace(mat3 m);$/;"	p	language:C++
+glmc_mat3_transpose	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_transpose(mat3 m);$/;"	p	language:C++
+glmc_mat3_transpose_to	/mnt/data/code/c/libs/cglm/include/cglm/call/mat3.h	/^glmc_mat3_transpose_to(mat3 m, mat3 dest);$/;"	p	language:C++
+glmc_mat4_copy	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_copy(mat4 mat, mat4 dest);$/;"	p	language:C++
+glmc_mat4_det	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_det(mat4 mat);$/;"	p	language:C++
+glmc_mat4_dup	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	18;"	d	language:C++
+glmc_mat4_identity	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_identity(mat4 mat);$/;"	p	language:C++
+glmc_mat4_identity_array	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_identity_array(mat4 * __restrict mat, size_t count);$/;"	p	language:C++
+glmc_mat4_ins3	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_ins3(mat3 mat, mat4 dest);$/;"	p	language:C++
+glmc_mat4_inv	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_inv(mat4 mat, mat4 dest);$/;"	p	language:C++
+glmc_mat4_inv_fast	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_inv_fast(mat4 mat, mat4 dest);$/;"	p	language:C++
+glmc_mat4_inv_precise	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_inv_precise(mat4 mat, mat4 dest);$/;"	p	language:C++
+glmc_mat4_mul	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_mul(mat4 m1, mat4 m2, mat4 dest);$/;"	p	language:C++
+glmc_mat4_mulN	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_mulN(mat4 * __restrict matrices[], uint32_t len, mat4 dest);$/;"	p	language:C++
+glmc_mat4_mulv	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_mulv(mat4 m, vec4 v, vec4 dest);$/;"	p	language:C++
+glmc_mat4_mulv3	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_mulv3(mat4 m, vec3 v, float last, vec3 dest);$/;"	p	language:C++
+glmc_mat4_pick3	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_pick3(mat4 mat, mat3 dest);$/;"	p	language:C++
+glmc_mat4_pick3t	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_pick3t(mat4 mat, mat3 dest);$/;"	p	language:C++
+glmc_mat4_print	/mnt/data/code/c/libs/cglm/include/cglm/call/io.h	/^glmc_mat4_print(mat4   matrix,$/;"	p	language:C++
+glmc_mat4_quat	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_quat(mat4 m, versor dest);$/;"	p	language:C++
+glmc_mat4_rmc	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_rmc(vec4 r, mat4 m, vec4 c);$/;"	p	language:C++
+glmc_mat4_scale	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_scale(mat4 m, float s);$/;"	p	language:C++
+glmc_mat4_scale_p	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_scale_p(mat4 m, float s);$/;"	p	language:C++
+glmc_mat4_swap_col	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_swap_col(mat4 mat, int col1, int col2);$/;"	p	language:C++
+glmc_mat4_swap_row	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_swap_row(mat4 mat, int row1, int row2);$/;"	p	language:C++
+glmc_mat4_trace	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_trace(mat4 m);$/;"	p	language:C++
+glmc_mat4_trace3	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_trace3(mat4 m);$/;"	p	language:C++
+glmc_mat4_transpose	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_transpose(mat4 m);$/;"	p	language:C++
+glmc_mat4_transpose_to	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_transpose_to(mat4 m, mat4 dest);$/;"	p	language:C++
+glmc_mat4_ucopy	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	/^glmc_mat4_ucopy(mat4 mat, mat4 dest);$/;"	p	language:C++
+glmc_mat4_udup	/mnt/data/code/c/libs/cglm/include/cglm/call/mat4.h	17;"	d	language:C++
+glmc_mul	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_mul(mat4 m1, mat4 m2, mat4 dest);$/;"	p	language:C++
+glmc_mul_rot	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_mul_rot(mat4 m1, mat4 m2, mat4 dest);$/;"	p	language:C++
+glmc_ortho	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_ortho(float left,$/;"	p	language:C++
+glmc_ortho_aabb	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_ortho_aabb(vec3 box[2], mat4 dest);$/;"	p	language:C++
+glmc_ortho_aabb_p	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_ortho_aabb_p(vec3 box[2], float padding, mat4 dest);$/;"	p	language:C++
+glmc_ortho_aabb_pz	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_ortho_aabb_pz(vec3 box[2], float padding, mat4 dest);$/;"	p	language:C++
+glmc_ortho_default	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_ortho_default(float aspect, mat4 dest);$/;"	p	language:C++
+glmc_ortho_default_s	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_ortho_default_s(float aspect, float size, mat4 dest);$/;"	p	language:C++
+glmc_persp_aspect	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_aspect(mat4 proj);$/;"	p	language:C++
+glmc_persp_decomp	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_decomp(mat4 proj,$/;"	p	language:C++
+glmc_persp_decomp_far	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_decomp_far(mat4 proj, float * __restrict farVal);$/;"	p	language:C++
+glmc_persp_decomp_near	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_decomp_near(mat4 proj, float * __restrict nearVal);$/;"	p	language:C++
+glmc_persp_decomp_x	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_decomp_x(mat4 proj,$/;"	p	language:C++
+glmc_persp_decomp_y	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_decomp_y(mat4 proj,$/;"	p	language:C++
+glmc_persp_decomp_z	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_decomp_z(mat4 proj,$/;"	p	language:C++
+glmc_persp_decompv	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_decompv(mat4 proj, float dest[6]);$/;"	p	language:C++
+glmc_persp_fovy	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_fovy(mat4 proj);$/;"	p	language:C++
+glmc_persp_move_far	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_move_far(mat4 proj, float deltaFar);$/;"	p	language:C++
+glmc_persp_sizes	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_persp_sizes(mat4 proj, float fovy, vec4 dest);$/;"	p	language:C++
+glmc_perspective	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_perspective(float fovy,$/;"	p	language:C++
+glmc_perspective_default	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_perspective_default(float aspect, mat4 dest);$/;"	p	language:C++
+glmc_perspective_resize	/mnt/data/code/c/libs/cglm/include/cglm/call/cam.h	/^glmc_perspective_resize(float aspect, mat4 proj);$/;"	p	language:C++
+glmc_plane_normalize	/mnt/data/code/c/libs/cglm/include/cglm/call/plane.h	/^glmc_plane_normalize(vec4 plane);$/;"	p	language:C++
+glmc_project	/mnt/data/code/c/libs/cglm/include/cglm/call/project.h	/^glmc_project(vec3 pos, mat4 m, vec4 vp, vec3 dest);$/;"	p	language:C++
+glmc_quat	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat(versor q, float angle, float x, float y, float z);$/;"	p	language:C++
+glmc_quat_add	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_add(versor p, versor q, versor dest);$/;"	p	language:C++
+glmc_quat_angle	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_angle(versor q);$/;"	p	language:C++
+glmc_quat_axis	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_axis(versor q, versor dest);$/;"	p	language:C++
+glmc_quat_conjugate	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_conjugate(versor q, versor dest);$/;"	p	language:C++
+glmc_quat_copy	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_copy(versor q, versor dest);$/;"	p	language:C++
+glmc_quat_dot	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_dot(versor p, versor q);$/;"	p	language:C++
+glmc_quat_for	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_for(vec3 dir, vec3 fwd, vec3 up, versor dest);$/;"	p	language:C++
+glmc_quat_forp	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_forp(vec3 from, vec3 to, vec3 fwd, vec3 up, versor dest);$/;"	p	language:C++
+glmc_quat_identity	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_identity(versor q);$/;"	p	language:C++
+glmc_quat_identity_array	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_identity_array(versor * __restrict q, size_t count);$/;"	p	language:C++
+glmc_quat_imag	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_imag(versor q, vec3 dest);$/;"	p	language:C++
+glmc_quat_imaglen	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_imaglen(versor q);$/;"	p	language:C++
+glmc_quat_imagn	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_imagn(versor q, vec3 dest);$/;"	p	language:C++
+glmc_quat_init	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_init(versor q, float x, float y, float z, float w);$/;"	p	language:C++
+glmc_quat_inv	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_inv(versor q, versor dest);$/;"	p	language:C++
+glmc_quat_lerp	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_lerp(versor from, versor to, float t, versor dest);$/;"	p	language:C++
+glmc_quat_look	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_look(vec3 eye, versor ori, mat4 dest);$/;"	p	language:C++
+glmc_quat_mat3	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_mat3(versor q, mat3 dest);$/;"	p	language:C++
+glmc_quat_mat3t	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_mat3t(versor q, mat3 dest);$/;"	p	language:C++
+glmc_quat_mat4	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_mat4(versor q, mat4 dest);$/;"	p	language:C++
+glmc_quat_mat4t	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_mat4t(versor q, mat4 dest);$/;"	p	language:C++
+glmc_quat_mul	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_mul(versor p, versor q, versor dest);$/;"	p	language:C++
+glmc_quat_norm	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_norm(versor q);$/;"	p	language:C++
+glmc_quat_normalize	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_normalize(versor q);$/;"	p	language:C++
+glmc_quat_normalize_to	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_normalize_to(versor q, versor dest);$/;"	p	language:C++
+glmc_quat_real	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_real(versor q);$/;"	p	language:C++
+glmc_quat_rotate	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_rotate(mat4 m, versor q, mat4 dest);$/;"	p	language:C++
+glmc_quat_rotate_at	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_rotate_at(mat4 model, versor q, vec3 pivot);$/;"	p	language:C++
+glmc_quat_rotate_atm	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_rotate_atm(mat4 m, versor q, vec3 pivot);$/;"	p	language:C++
+glmc_quat_rotatev	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_rotatev(versor from, vec3 to, vec3 dest);$/;"	p	language:C++
+glmc_quat_slerp	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_slerp(versor q, versor r, float t, versor dest);$/;"	p	language:C++
+glmc_quat_sub	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quat_sub(versor p, versor q, versor dest);$/;"	p	language:C++
+glmc_quatv	/mnt/data/code/c/libs/cglm/include/cglm/call/quat.h	/^glmc_quatv(versor q, float angle, vec3 axis);$/;"	p	language:C++
+glmc_rotate	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_rotate(mat4 m, float angle, vec3 axis);$/;"	p	language:C++
+glmc_rotate_at	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_rotate_at(mat4 m, vec3 pivot, float angle, vec3 axis);$/;"	p	language:C++
+glmc_rotate_atm	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_rotate_atm(mat4 m, vec3 pivot, float angle, vec3 axis);$/;"	p	language:C++
+glmc_rotate_make	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_rotate_make(mat4 m, float angle, vec3 axis);$/;"	p	language:C++
+glmc_rotate_x	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_rotate_x(mat4 m, float rad, mat4 dest);$/;"	p	language:C++
+glmc_rotate_y	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_rotate_y(mat4 m, float rad, mat4 dest);$/;"	p	language:C++
+glmc_rotate_z	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_rotate_z(mat4 m, float rad, mat4 dest);$/;"	p	language:C++
+glmc_scale	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_scale(mat4 m, vec3 v);$/;"	p	language:C++
+glmc_scale_make	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_scale_make(mat4 m, vec3 v);$/;"	p	language:C++
+glmc_scale_to	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_scale_to(mat4 m, vec3 v, mat4 dest);$/;"	p	language:C++
+glmc_scale_uni	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_scale_uni(mat4 m, float s);$/;"	p	language:C++
+glmc_smc	/mnt/data/code/c/libs/cglm/include/cglm/call/curve.h	/^glmc_smc(float s, mat4 m, vec4 c);$/;"	p	language:C++
+glmc_sphere_merge	/mnt/data/code/c/libs/cglm/include/cglm/call/sphere.h	/^glmc_sphere_merge(vec4 s1, vec4 s2, vec4 dest);$/;"	p	language:C++
+glmc_sphere_point	/mnt/data/code/c/libs/cglm/include/cglm/call/sphere.h	/^glmc_sphere_point(vec4 s, vec3 point);$/;"	p	language:C++
+glmc_sphere_radii	/mnt/data/code/c/libs/cglm/include/cglm/call/sphere.h	/^glmc_sphere_radii(vec4 s);$/;"	p	language:C++
+glmc_sphere_sphere	/mnt/data/code/c/libs/cglm/include/cglm/call/sphere.h	/^glmc_sphere_sphere(vec4 s1, vec4 s2);$/;"	p	language:C++
+glmc_sphere_transform	/mnt/data/code/c/libs/cglm/include/cglm/call/sphere.h	/^glmc_sphere_transform(vec4 s, mat4 m, vec4 dest);$/;"	p	language:C++
+glmc_translate	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_translate(mat4 m, vec3 v);$/;"	p	language:C++
+glmc_translate_make	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_translate_make(mat4 m, vec3 v);$/;"	p	language:C++
+glmc_translate_to	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_translate_to(mat4 m, vec3 v, mat4 dest);$/;"	p	language:C++
+glmc_translate_x	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_translate_x(mat4 m, float to);$/;"	p	language:C++
+glmc_translate_y	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_translate_y(mat4 m, float to);$/;"	p	language:C++
+glmc_translate_z	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_translate_z(mat4 m, float to);$/;"	p	language:C++
+glmc_uniscaled	/mnt/data/code/c/libs/cglm/include/cglm/call/affine.h	/^glmc_uniscaled(mat4 m);$/;"	p	language:C++
+glmc_unproject	/mnt/data/code/c/libs/cglm/include/cglm/call/project.h	/^glmc_unproject(vec3 pos, mat4 m, vec4 vp, vec3 dest);$/;"	p	language:C++
+glmc_unprojecti	/mnt/data/code/c/libs/cglm/include/cglm/call/project.h	/^glmc_unprojecti(vec3 pos, mat4 invMat, vec4 vp, vec3 dest);$/;"	p	language:C++
+glmc_vec3	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3(vec4 v4, vec3 dest);$/;"	p	language:C++
+glmc_vec3_add	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_add(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_addadd	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_addadd(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_adds	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_adds(vec3 v, float s, vec3 dest);$/;"	p	language:C++
+glmc_vec3_angle	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_angle(vec3 a, vec3 b);$/;"	p	language:C++
+glmc_vec3_broadcast	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_broadcast(float val, vec3 d);$/;"	p	language:C++
+glmc_vec3_center	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_center(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_clamp	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_clamp(vec3 v, float minVal, float maxVal);$/;"	p	language:C++
+glmc_vec3_copy	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_copy(vec3 a, vec3 dest);$/;"	p	language:C++
+glmc_vec3_cross	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_cross(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_crossn	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_crossn(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_distance	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_distance(vec3 a, vec3 b);$/;"	p	language:C++
+glmc_vec3_distance2	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_distance2(vec3 a, vec3 b);$/;"	p	language:C++
+glmc_vec3_div	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_div(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_divs	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_divs(vec3 a, float s, vec3 dest);$/;"	p	language:C++
+glmc_vec3_dot	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_dot(vec3 a, vec3 b);$/;"	p	language:C++
+glmc_vec3_eq	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_eq(vec3 v, float val);$/;"	p	language:C++
+glmc_vec3_eq_all	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_eq_all(vec3 v);$/;"	p	language:C++
+glmc_vec3_eq_eps	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_eq_eps(vec3 v, float val);$/;"	p	language:C++
+glmc_vec3_eqv	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_eqv(vec3 a, vec3 b);$/;"	p	language:C++
+glmc_vec3_eqv_eps	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_eqv_eps(vec3 a, vec3 b);$/;"	p	language:C++
+glmc_vec3_flipsign	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	18;"	d	language:C++
+glmc_vec3_flipsign_to	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	19;"	d	language:C++
+glmc_vec3_inv	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	20;"	d	language:C++
+glmc_vec3_inv_to	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	21;"	d	language:C++
+glmc_vec3_isinf	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_isinf(vec3 v);$/;"	p	language:C++
+glmc_vec3_isnan	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_isnan(vec3 v);$/;"	p	language:C++
+glmc_vec3_isvalid	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_isvalid(vec3 v);$/;"	p	language:C++
+glmc_vec3_lerp	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_lerp(vec3 from, vec3 to, float t, vec3 dest);$/;"	p	language:C++
+glmc_vec3_max	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_max(vec3 v);$/;"	p	language:C++
+glmc_vec3_maxadd	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_maxadd(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_maxv	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_maxv(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_min	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_min(vec3 v);$/;"	p	language:C++
+glmc_vec3_minadd	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_minadd(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_minv	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_minv(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_mul	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_mul(vec3 a, vec3 b, vec3 d);$/;"	p	language:C++
+glmc_vec3_muladd	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_muladd(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_muladds	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_muladds(vec3 a, float s, vec3 dest);$/;"	p	language:C++
+glmc_vec3_mulv	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_mulv(vec3 a, vec3 b, vec3 d);$/;"	p	language:C++
+glmc_vec3_negate	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_negate(vec3 v);$/;"	p	language:C++
+glmc_vec3_negate_to	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_negate_to(vec3 v, vec3 dest);$/;"	p	language:C++
+glmc_vec3_norm	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_norm(vec3 v);$/;"	p	language:C++
+glmc_vec3_norm2	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_norm2(vec3 v);$/;"	p	language:C++
+glmc_vec3_normalize	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_normalize(vec3 v);$/;"	p	language:C++
+glmc_vec3_normalize_to	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_normalize_to(vec3 v, vec3 dest);$/;"	p	language:C++
+glmc_vec3_one	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_one(vec3 v);$/;"	p	language:C++
+glmc_vec3_ortho	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_ortho(vec3 v, vec3 dest);$/;"	p	language:C++
+glmc_vec3_print	/mnt/data/code/c/libs/cglm/include/cglm/call/io.h	/^glmc_vec3_print(vec3 vec,$/;"	p	language:C++
+glmc_vec3_proj	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_proj(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_rotate	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_rotate(vec3 v, float angle, vec3 axis);$/;"	p	language:C++
+glmc_vec3_rotate_m3	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_rotate_m3(mat3 m, vec3 v, vec3 dest);$/;"	p	language:C++
+glmc_vec3_rotate_m4	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_rotate_m4(mat4 m, vec3 v, vec3 dest);$/;"	p	language:C++
+glmc_vec3_scale	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_scale(vec3 v, float s, vec3 dest);$/;"	p	language:C++
+glmc_vec3_scale_as	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_scale_as(vec3 v, float s, vec3 dest);$/;"	p	language:C++
+glmc_vec3_sign	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_sign(vec3 v, vec3 dest);$/;"	p	language:C++
+glmc_vec3_sqrt	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_sqrt(vec3 v, vec3 dest);$/;"	p	language:C++
+glmc_vec3_sub	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_sub(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_subadd	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_subadd(vec3 a, vec3 b, vec3 dest);$/;"	p	language:C++
+glmc_vec3_subs	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_subs(vec3 v, float s, vec3 dest);$/;"	p	language:C++
+glmc_vec3_zero	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	/^glmc_vec3_zero(vec3 v);$/;"	p	language:C++
+glmc_vec4	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4(vec3 v3, float last, vec4 dest);$/;"	p	language:C++
+glmc_vec4_add	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_add(vec4 a, vec4 b, vec4 dest);$/;"	p	language:C++
+glmc_vec4_addadd	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_addadd(vec4 a, vec4 b, vec4 dest);$/;"	p	language:C++
+glmc_vec4_adds	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_adds(vec4 v, float s, vec4 dest);$/;"	p	language:C++
+glmc_vec4_broadcast	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_broadcast(float val, vec4 d);$/;"	p	language:C++
+glmc_vec4_clamp	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_clamp(vec4 v, float minVal, float maxVal);$/;"	p	language:C++
+glmc_vec4_copy	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_copy(vec4 v, vec4 dest);$/;"	p	language:C++
+glmc_vec4_copy3	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_copy3(vec4 v, vec3 dest);$/;"	p	language:C++
+glmc_vec4_cubic	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_cubic(float s, vec4 dest);$/;"	p	language:C++
+glmc_vec4_distance	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_distance(vec4 a, vec4 b);$/;"	p	language:C++
+glmc_vec4_div	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_div(vec4 a, vec4 b, vec4 dest);$/;"	p	language:C++
+glmc_vec4_divs	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_divs(vec4 v, float s, vec4 dest);$/;"	p	language:C++
+glmc_vec4_dot	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_dot(vec4 a, vec4 b);$/;"	p	language:C++
+glmc_vec4_dup	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	18;"	d	language:C++
+glmc_vec4_dup3	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	17;"	d	language:C++
+glmc_vec4_eq	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_eq(vec4 v, float val);$/;"	p	language:C++
+glmc_vec4_eq_all	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_eq_all(vec4 v);$/;"	p	language:C++
+glmc_vec4_eq_eps	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_eq_eps(vec4 v, float val);$/;"	p	language:C++
+glmc_vec4_eqv	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_eqv(vec4 a, vec4 b);$/;"	p	language:C++
+glmc_vec4_eqv_eps	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_eqv_eps(vec4 a, vec4 b);$/;"	p	language:C++
+glmc_vec4_flipsign	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	19;"	d	language:C++
+glmc_vec4_flipsign_to	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	20;"	d	language:C++
+glmc_vec4_inv	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	21;"	d	language:C++
+glmc_vec4_inv_to	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	22;"	d	language:C++
+glmc_vec4_isinf	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_isinf(vec4 v);$/;"	p	language:C++
+glmc_vec4_isnan	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_isnan(vec4 v);$/;"	p	language:C++
+glmc_vec4_isvalid	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_isvalid(vec4 v);$/;"	p	language:C++
+glmc_vec4_lerp	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_lerp(vec4 from, vec4 to, float t, vec4 dest);$/;"	p	language:C++
+glmc_vec4_max	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_max(vec4 v);$/;"	p	language:C++
+glmc_vec4_maxadd	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_maxadd(vec4 a, vec4 b, vec4 dest);$/;"	p	language:C++
+glmc_vec4_maxv	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_maxv(vec4 a, vec4 b, vec4 dest);$/;"	p	language:C++
+glmc_vec4_min	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_min(vec4 v);$/;"	p	language:C++
+glmc_vec4_minadd	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_minadd(vec4 a, vec4 b, vec4 dest);$/;"	p	language:C++
+glmc_vec4_minv	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_minv(vec4 a, vec4 b, vec4 dest);$/;"	p	language:C++
+glmc_vec4_mul	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_mul(vec4 a, vec4 b, vec4 d);$/;"	p	language:C++
+glmc_vec4_muladd	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_muladd(vec4 a, vec4 b, vec4 dest);$/;"	p	language:C++
+glmc_vec4_muladds	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_muladds(vec4 a, float s, vec4 dest);$/;"	p	language:C++
+glmc_vec4_mulv	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_mulv(vec4 a, vec4 b, vec4 d);$/;"	p	language:C++
+glmc_vec4_negate	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_negate(vec4 v);$/;"	p	language:C++
+glmc_vec4_negate_to	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_negate_to(vec4 v, vec4 dest);$/;"	p	language:C++
+glmc_vec4_norm	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_norm(vec4 v);$/;"	p	language:C++
+glmc_vec4_norm2	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_norm2(vec4 v);$/;"	p	language:C++
+glmc_vec4_normalize	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_normalize(vec4 v);$/;"	p	language:C++
+glmc_vec4_normalize_to	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_normalize_to(vec4 v, vec4 dest);$/;"	p	language:C++
+glmc_vec4_one	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_one(vec4 v);$/;"	p	language:C++
+glmc_vec4_print	/mnt/data/code/c/libs/cglm/include/cglm/call/io.h	/^glmc_vec4_print(vec4 vec,$/;"	p	language:C++
+glmc_vec4_scale	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_scale(vec4 v, float s, vec4 dest);$/;"	p	language:C++
+glmc_vec4_scale_as	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_scale_as(vec3 v, float s, vec3 dest);$/;"	p	language:C++
+glmc_vec4_sign	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_sign(vec4 v, vec4 dest);$/;"	p	language:C++
+glmc_vec4_sqrt	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_sqrt(vec4 v, vec4 dest);$/;"	p	language:C++
+glmc_vec4_sub	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_sub(vec4 a, vec4 b, vec4 dest);$/;"	p	language:C++
+glmc_vec4_subadd	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_subadd(vec4 a, vec4 b, vec4 dest);$/;"	p	language:C++
+glmc_vec4_subs	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_subs(vec4 v, float s, vec4 dest);$/;"	p	language:C++
+glmc_vec4_ucopy	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_ucopy(vec4 v, vec4 dest);$/;"	p	language:C++
+glmc_vec4_zero	/mnt/data/code/c/libs/cglm/include/cglm/call/vec4.h	/^glmc_vec4_zero(vec4 v);$/;"	p	language:C++
+glmc_vec_dup	/mnt/data/code/c/libs/cglm/include/cglm/call/vec3.h	17;"	d	language:C++
+glmc_versor_print	/mnt/data/code/c/libs/cglm/include/cglm/call/io.h	/^glmc_versor_print(versor vec,$/;"	p	language:C++
+glmm_dot	/mnt/data/code/c/libs/cglm/include/cglm/simd/arm.h	/^glmm_dot(float32x4_t a, float32x4_t b) {$/;"	f	language:C++
+glmm_dot	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	/^glmm_dot(__m128 a, __m128 b) {$/;"	f	language:C++
+glmm_hadd	/mnt/data/code/c/libs/cglm/include/cglm/simd/arm.h	/^glmm_hadd(float32x4_t v) {$/;"	f	language:C++
+glmm_hadd	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	/^glmm_hadd(__m128 v) {$/;"	f	language:C++
+glmm_load	/mnt/data/code/c/libs/cglm/include/cglm/simd/arm.h	13;"	d	language:C++
+glmm_load	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	14;"	d	language:C++
+glmm_load	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	17;"	d	language:C++
+glmm_load256	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	37;"	d	language:C++
+glmm_load256	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	40;"	d	language:C++
+glmm_load3	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	/^glmm_load3(float v[3]) {$/;"	f	language:C++
+glmm_norm	/mnt/data/code/c/libs/cglm/include/cglm/simd/arm.h	/^glmm_norm(float32x4_t a) {$/;"	f	language:C++
+glmm_norm	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	/^glmm_norm(__m128 a) {$/;"	f	language:C++
+glmm_shuff1	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	22;"	d	language:C++
+glmm_shuff1	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	26;"	d	language:C++
+glmm_shuff1x	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	30;"	d	language:C++
+glmm_shuff2	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	31;"	d	language:C++
+glmm_store	/mnt/data/code/c/libs/cglm/include/cglm/simd/arm.h	14;"	d	language:C++
+glmm_store	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	15;"	d	language:C++
+glmm_store	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	18;"	d	language:C++
+glmm_store256	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	38;"	d	language:C++
+glmm_store256	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	41;"	d	language:C++
+glmm_store3	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	/^glmm_store3(__m128 vx, float v[3]) {$/;"	f	language:C++
+glmm_vdot	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	/^glmm_vdot(__m128 a, __m128 b) {$/;"	f	language:C++
+glmm_vdots	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	/^glmm_vdots(__m128 a, __m128 b) {$/;"	f	language:C++
+glmm_vhadds	/mnt/data/code/c/libs/cglm/include/cglm/simd/x86.h	/^glmm_vhadds(__m128 v) {$/;"	f	language:C++
+htonf	core/src/core/ext/io.h	/^htonf(float val) $/;"	f	language:C++
+indexes	core/src/core/ecs/component_pool.h	/^    Stack *indexes;$/;"	m	language:C++	struct:__anon11
+indexes	core/src/core/ecs/component_pool.h	/^    Stack *indexes;$/;"	m	language:C++	struct:__anon25
+indexes	core/src/core/ecs/entity_master.h	/^    Stack *indexes;$/;"	m	language:C++	struct:EntityMaster
+indice_count	core/src/core/data/mesh_bundle.h	/^	u32 indice_count;$/;"	m	language:C++	struct:__anon16
+indice_count	core/src/core/data/mesh_bundle.h	/^	u32 indice_count;$/;"	m	language:C++	struct:__anon2
+indices	core/src/core/data/mesh_bundle.h	/^	u32 *indices;$/;"	m	language:C++	struct:__anon16
+indices	core/src/core/data/mesh_bundle.h	/^	u32 *indices;$/;"	m	language:C++	struct:__anon2
+io_get_file_size	core/src/core/ext/io.h	/^io_get_file_size(const char *path)$/;"	f	language:C++
+io_read_char	core/src/core/ext/io.h	/^io_read_char(char *data, const char *buffer, uint32_t len)$/;"	f	language:C++
+io_read_file	core/src/core/ext/io.h	/^io_read_file(const char *path, char **buffer)$/;"	f	language:C++
+io_read_float	core/src/core/ext/io.h	/^io_read_float(float *data, const char *buffer)$/;"	f	language:C++
+io_read_int16	core/src/core/ext/io.h	/^io_read_int16(int16_t *data, const char *buffer)$/;"	f	language:C++
+io_read_int32	core/src/core/ext/io.h	/^io_read_int32(int32_t *data, const char *buffer)$/;"	f	language:C++
+io_read_int8	core/src/core/ext/io.h	/^io_read_int8(int8_t *data, const char *buffer)$/;"	f	language:C++
+io_read_mat4	core/src/core/ext/io.h	/^io_read_mat4(mat4 data, const char *buffer)$/;"	f	language:C++
+io_read_uint16	core/src/core/ext/io.h	/^io_read_uint16(uint16_t *data, const char *buffer)$/;"	f	language:C++
+io_read_uint32	core/src/core/ext/io.h	/^io_read_uint32(uint32_t *data, const char *buffer)$/;"	f	language:C++
+io_read_uint8	core/src/core/ext/io.h	/^io_read_uint8(uint8_t *data, const char *buffer)$/;"	f	language:C++
+io_read_vec2	core/src/core/ext/io.h	/^io_read_vec2(vec2 data, const char *buffer)$/;"	f	language:C++
+io_read_vec3	core/src/core/ext/io.h	/^io_read_vec3(vec3 data, const char *buffer)$/;"	f	language:C++
+io_read_vec4	core/src/core/ext/io.h	/^io_read_vec4(vec4 data, const char *buffer)$/;"	f	language:C++
+io_write_char	core/src/core/ext/io.h	/^io_write_char(char *buffer, const char *data, uint32_t len)$/;"	f	language:C++
+io_write_file	core/src/core/ext/io.h	/^io_write_file(const char *path, const char *buffer, uint32_t len)$/;"	f	language:C++
+io_write_float	core/src/core/ext/io.h	/^io_write_float(char *buffer, float data)$/;"	f	language:C++
+io_write_int16	core/src/core/ext/io.h	/^io_write_int16(char *buffer, int16_t data)$/;"	f	language:C++
+io_write_int32	core/src/core/ext/io.h	/^io_write_int32(char *buffer, int32_t data)$/;"	f	language:C++
+io_write_int8	core/src/core/ext/io.h	/^io_write_int8(char *buffer, int8_t data)$/;"	f	language:C++
+io_write_mat4	core/src/core/ext/io.h	/^io_write_mat4(char *buffer, mat4 v)$/;"	f	language:C++
+io_write_uint16	core/src/core/ext/io.h	/^io_write_uint16(char *buffer, uint16_t data)$/;"	f	language:C++
+io_write_uint32	core/src/core/ext/io.h	/^io_write_uint32(char *buffer, uint32_t data)$/;"	f	language:C++
+io_write_uint8	core/src/core/ext/io.h	/^io_write_uint8(char *buffer, uint8_t data)$/;"	f	language:C++
+io_write_vec2	core/src/core/ext/io.h	/^io_write_vec2(char *buffer, vec2 v)$/;"	f	language:C++
+io_write_vec3	core/src/core/ext/io.h	/^io_write_vec3(char *buffer, vec3 v)$/;"	f	language:C++
+io_write_vec4	core/src/core/ext/io.h	/^io_write_vec4(char *buffer, vec4 v)$/;"	f	language:C++
+ivec3	/mnt/data/code/c/libs/cglm/include/cglm/types.h	/^typedef int                    ivec3[3];$/;"	t	language:C++
+log_debug	core/src/core/ext/logger.h	13;"	d	language:C++
+log_fatal	core/src/core/ext/logger.h	16;"	d	language:C++
+log_info	core/src/core/ext/logger.h	14;"	d	language:C++
+log_level	core/src/core/ext/logger.h	/^} log_level;$/;"	t	language:C++	typeref:enum:__anon14
+log_level	core/src/core/ext/logger.h	/^} log_level;$/;"	t	language:C++	typeref:enum:__anon28
+log_warn	core/src/core/ext/logger.h	15;"	d	language:C++
+logger_level_names	core/src/core/ext/logger.c	/^static const char *logger_level_names[] = {"DEBUG", "INFO", "WARN", "FATAL"};$/;"	v	language:C	file:
+logger_set_cleanup_callback	core/src/core/ext/logger.c	/^logger_set_cleanup_callback(void (*cb)(void))$/;"	f	language:C
+logger_set_cleanup_callback	core/src/core/ext/logger.h	/^void logger_set_cleanup_callback(void (*cb)(void));$/;"	p	language:C++
+logger_write	core/src/core/ext/logger.c	/^logger_write(log_level level, const char *file, s32 line, const char *fmt, ...)$/;"	f	language:C
+logger_write	core/src/core/ext/logger.h	/^void logger_write(log_level level, const char *file, s32 line, const char *fmt, ...);$/;"	p	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	105;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	114;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	127;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	136;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	149;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	158;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	171;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	181;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	200;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	33;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	52;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	63;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	82;"	d	language:C++
+m	/mnt/data/code/c/libs/cglm/include/cglm/io.h	92;"	d	language:C++
+master	core/src/core/ecs/system.h	/^struct EntityMaster *master;$/;"	v	language:C++	typeref:struct:EntityMaster
+mat3	/mnt/data/code/c/libs/cglm/include/cglm/types.h	/^typedef vec3                    mat3[3];$/;"	t	language:C++
+mat4	/mnt/data/code/c/libs/cglm/include/cglm/types.h	/^typedef CGLM_ALIGN_IF(16) vec4  mat4[4];$/;"	v	language:C++
+mat4	/mnt/data/code/c/libs/cglm/include/cglm/types.h	/^typedef CGLM_ALIGN_IF(32) vec4  mat4[4];$/;"	v	language:C++
+mat4_print	/mnt/data/code/c/libs/cglm/include/cglm/mat4.h	/^mat4_print(mat4 mat)$/;"	f	language:C++
+mesh_bundle_destroy	core/src/core/data/mesh_bundle.c	/^mesh_bundle_destroy(MeshBundle *bundle)$/;"	f	language:C
+mesh_bundle_destroy	core/src/core/data/mesh_bundle.h	/^void        mesh_bundle_destroy(MeshBundle *set);$/;"	p	language:C++
+mesh_bundle_get_mesh_data	core/src/core/data/mesh_bundle.c	/^mesh_bundle_get_mesh_data(const MeshBundle *bundle, const char *mesh_str)$/;"	f	language:C
+mesh_bundle_get_mesh_data	core/src/core/data/mesh_bundle.h	/^MeshData*   mesh_bundle_get_mesh_data(const MeshBundle *bundle, const char *mesh_str);$/;"	p	language:C++
+mesh_bundle_make	core/src/core/data/mesh_bundle.c	/^mesh_bundle_make(const char *path)$/;"	f	language:C
+mesh_bundle_make	core/src/core/data/mesh_bundle.h	/^MeshBundle* mesh_bundle_make(const char *path);$/;"	p	language:C++
+mesh_bundle_print	core/src/core/data/mesh_bundle.c	/^mesh_bundle_print(const MeshBundle *bundle)$/;"	f	language:C
+mesh_bundle_print	core/src/core/data/mesh_bundle.h	/^void        mesh_bundle_print(const MeshBundle *bundle);$/;"	p	language:C++
+mesh_count	core/src/core/data/mesh_bundle.h	/^	u32 mesh_count;$/;"	m	language:C++	struct:__anon17
+mesh_count	core/src/core/data/mesh_bundle.h	/^	u32 mesh_count;$/;"	m	language:C++	struct:__anon3
+mesh_data_destroy	core/src/core/data/mesh_bundle.c	/^mesh_data_destroy(MeshData *mesh_data)$/;"	f	language:C	file:
+meshes	core/src/core/data/mesh_bundle.h	/^	MeshData *meshes;$/;"	m	language:C++	struct:__anon17
+meshes	core/src/core/data/mesh_bundle.h	/^	MeshData *meshes;$/;"	m	language:C++	struct:__anon3
+mode	core/src/core/ext/binary_mapper.h	/^    BinaryMapperMode mode;$/;"	m	language:C++	struct:__anon13
+mode	core/src/core/ext/binary_mapper.h	/^    BinaryMapperMode mode;$/;"	m	language:C++	struct:__anon27
+n	/mnt/data/code/c/libs/cglm/include/cglm/io.h	34;"	d	language:C++
+n	/mnt/data/code/c/libs/cglm/include/cglm/io.h	53;"	d	language:C++
+n	/mnt/data/code/c/libs/cglm/include/cglm/io.h	64;"	d	language:C++
+n	/mnt/data/code/c/libs/cglm/include/cglm/io.h	83;"	d	language:C++
+name	core/src/core/data/mesh_bundle.h	/^	char name[MAX_NAME_LEN];$/;"	m	language:C++	struct:__anon16
+name	core/src/core/data/mesh_bundle.h	/^	char name[MAX_NAME_LEN];$/;"	m	language:C++	struct:__anon2
+name	core/src/core/data/skeleton_data.h	/^	char name[MAX_NAME_LEN];	$/;"	m	language:C++	struct:__anon20
+name	core/src/core/data/skeleton_data.h	/^	char name[MAX_NAME_LEN];	$/;"	m	language:C++	struct:__anon6
+name	core/src/core/data/skeleton_data.h	/^	char name[MAX_NAME_LEN];$/;"	m	language:C++	struct:__anon18
+name	core/src/core/data/skeleton_data.h	/^	char name[MAX_NAME_LEN];$/;"	m	language:C++	struct:__anon19
+name	core/src/core/data/skeleton_data.h	/^	char name[MAX_NAME_LEN];$/;"	m	language:C++	struct:__anon4
+name	core/src/core/data/skeleton_data.h	/^	char name[MAX_NAME_LEN];$/;"	m	language:C++	struct:__anon5
+norm	core/src/core/data/mesh_bundle.h	/^	vec3 norm;$/;"	m	language:C++	struct:__anon1
+norm	core/src/core/data/mesh_bundle.h	/^	vec3 norm;$/;"	m	language:C++	struct:__anon15
+ntohf	core/src/core/ext/io.h	/^ntohf(float val) $/;"	f	language:C++
+offset	core/src/core/ext/binary_mapper.h	/^    size_t offset;$/;"	m	language:C++	struct:__anon13
+offset	core/src/core/ext/binary_mapper.h	/^    size_t offset;$/;"	m	language:C++	struct:__anon27
+offset_matrix	core/src/core/data/skeleton_data.h	/^	mat4 offset_matrix;$/;"	m	language:C++	struct:__anon20
+offset_matrix	core/src/core/data/skeleton_data.h	/^	mat4 offset_matrix;$/;"	m	language:C++	struct:__anon6
+parent_name	core/src/core/data/skeleton_data.h	/^	char parent_name[MAX_NAME_LEN];	$/;"	m	language:C++	struct:__anon20
+parent_name	core/src/core/data/skeleton_data.h	/^	char parent_name[MAX_NAME_LEN];	$/;"	m	language:C++	struct:__anon6
+path	core/src/core/data/mesh_bundle.h	/^	char *path;$/;"	m	language:C++	struct:__anon17
+path	core/src/core/data/mesh_bundle.h	/^	char *path;$/;"	m	language:C++	struct:__anon3
+path	core/src/core/data/skeleton_data.h	/^	char *path;$/;"	m	language:C++	struct:__anon21
+path	core/src/core/data/skeleton_data.h	/^	char *path;$/;"	m	language:C++	struct:__anon7
+pool	core/src/core/ecs/entity_master.h	/^	ComponentPool pool[COMPONENT_COUNT];$/;"	m	language:C++	struct:EntityMaster
+pos	core/src/core/data/mesh_bundle.h	/^	vec3 pos;$/;"	m	language:C++	struct:__anon1
+pos	core/src/core/data/mesh_bundle.h	/^	vec3 pos;$/;"	m	language:C++	struct:__anon15
+pos	core/src/core/ecs/component.h	/^	vec3 pos;$/;"	m	language:C++	struct:__anon10
+pos	core/src/core/ecs/component.h	/^	vec3 pos;$/;"	m	language:C++	struct:__anon23
+pos	core/src/core/ecs/component.h	/^	vec3 pos;$/;"	m	language:C++	struct:__anon24
+pos	core/src/core/ecs/component.h	/^	vec3 pos;$/;"	m	language:C++	struct:__anon9
+rotation_count	core/src/core/data/skeleton_data.h	/^	u32 rotation_count;$/;"	m	language:C++	struct:__anon18
+rotation_count	core/src/core/data/skeleton_data.h	/^	u32 rotation_count;$/;"	m	language:C++	struct:__anon4
+rotations	core/src/core/data/skeleton_data.h	/^	versor *rotations;$/;"	m	language:C++	struct:__anon18
+rotations	core/src/core/data/skeleton_data.h	/^	versor *rotations;$/;"	m	language:C++	struct:__anon4
+s16	core/src/core/ext/sugar.h	/^typedef int16_t  s16;$/;"	t	language:C++
+s32	core/src/core/ext/sugar.h	/^typedef int32_t	 s32;$/;"	t	language:C++
+s64	core/src/core/ext/sugar.h	/^typedef int64_t	 s64;$/;"	t	language:C++
+s8	core/src/core/ext/sugar.h	/^typedef int8_t   s8;$/;"	t	language:C++
+scale_count	core/src/core/data/skeleton_data.h	/^	u32 scale_count;$/;"	m	language:C++	struct:__anon18
+scale_count	core/src/core/data/skeleton_data.h	/^	u32 scale_count;$/;"	m	language:C++	struct:__anon4
+scales	core/src/core/data/skeleton_data.h	/^	vec3 *scales;$/;"	m	language:C++	struct:__anon18
+scales	core/src/core/data/skeleton_data.h	/^	vec3 *scales;$/;"	m	language:C++	struct:__anon4
+size	core/src/core/ecs/component_pool.h	/^	u32 size;$/;"	m	language:C++	struct:__anon11
+size	core/src/core/ecs/component_pool.h	/^	u32 size;$/;"	m	language:C++	struct:__anon25
+skeleton_data_destroy	core/src/core/data/skeleton_data.c	/^skeleton_data_destroy(SkeletonData *skel_data)$/;"	f	language:C
+skeleton_data_destroy	core/src/core/data/skeleton_data.h	/^void              skeleton_data_destroy(SkeletonData *skel_data);$/;"	p	language:C++
+skeleton_data_make	core/src/core/data/skeleton_data.c	/^skeleton_data_make(const char *path)$/;"	f	language:C
+skeleton_data_make	core/src/core/data/skeleton_data.h	/^SkeletonData*     skeleton_data_make(const char *path);$/;"	p	language:C++
+skeleton_get_anim_data	core/src/core/data/skeleton_data.c	/^skeleton_get_anim_data(const SkeletonData *skel_data, const char *anim_str)$/;"	f	language:C
+skeleton_get_anim_data	core/src/core/data/skeleton_data.h	/^SkeletonAnimData* skeleton_get_anim_data(const SkeletonData *skel_data, const char *anim_str);$/;"	p	language:C++
+skeleton_get_bone_anim_data	core/src/core/data/skeleton_data.c	/^skeleton_get_bone_anim_data(const SkeletonAnimData *anim, const char *name)$/;"	f	language:C
+skeleton_get_bone_anim_data	core/src/core/data/skeleton_data.h	/^BoneAnimData*     skeleton_get_bone_anim_data(const SkeletonAnimData *anim, const char *name);$/;"	p	language:C++
+skeleton_get_bone_data	core/src/core/data/skeleton_data.c	/^skeleton_get_bone_data(const SkeletonData *skel, const char *bone_str)$/;"	f	language:C
+skeleton_get_bone_data	core/src/core/data/skeleton_data.h	/^BoneData*         skeleton_get_bone_data(const SkeletonData *skel_data, const char *bone_str);$/;"	p	language:C++
+stack_capacity	core/src/core/ext/stack.c	/^stack_capacity(Stack *s)$/;"	f	language:C
+stack_capacity	core/src/core/ext/stack.h	/^size_t stack_capacity(Stack *s);$/;"	p	language:C++
+stack_destroy	core/src/core/ext/stack.c	/^stack_destroy(Stack *s)$/;"	f	language:C
+stack_destroy	core/src/core/ext/stack.h	/^void   stack_destroy(Stack *s);$/;"	p	language:C++
+stack_empty	core/src/core/ext/stack.c	/^stack_empty(Stack *s)$/;"	f	language:C
+stack_empty	core/src/core/ext/stack.h	/^bool   stack_empty(Stack *s);$/;"	p	language:C++
+stack_full	core/src/core/ext/stack.c	/^stack_full(Stack *s)$/;"	f	language:C
+stack_full	core/src/core/ext/stack.h	/^bool   stack_full(Stack *s);$/;"	p	language:C++
+stack_make	core/src/core/ext/stack.c	/^stack_make(size_t capacity)$/;"	f	language:C
+stack_make	core/src/core/ext/stack.h	/^Stack* stack_make(size_t capacity);$/;"	p	language:C++
+stack_peek	core/src/core/ext/stack.c	/^stack_peek(Stack *s)$/;"	f	language:C
+stack_peek	core/src/core/ext/stack.h	/^u32    stack_peek(Stack *s);$/;"	p	language:C++
+stack_pop	core/src/core/ext/stack.c	/^stack_pop(Stack *s)$/;"	f	language:C
+stack_pop	core/src/core/ext/stack.h	/^u32    stack_pop(Stack *s);$/;"	p	language:C++
+stack_push	core/src/core/ext/stack.c	/^stack_push(Stack *s, u32 val)$/;"	f	language:C
+stack_push	core/src/core/ext/stack.h	/^void   stack_push(Stack *s, u32 val);$/;"	p	language:C++
+stack_top	core/src/core/ext/stack.c	/^stack_top(Stack *s)$/;"	f	language:C
+stack_top	core/src/core/ext/stack.h	/^size_t stack_top(Stack *s);$/;"	p	language:C++
+str_remove	core/src/core/ext/util.c	/^str_remove(char *str, const char *sub) $/;"	f	language:C
+str_remove	core/src/core/ext/util.h	/^char* str_remove(char *str, const char *sub);$/;"	p	language:C++
+str_replace	core/src/core/ext/util.c	/^str_replace(char *orig, char *rep, char *with) {$/;"	f	language:C
+str_replace	core/src/core/ext/util.h	/^char *str_replace(char *orig, char *rep, char *with);$/;"	p	language:C++
+system_movement	core/src/core/ecs/system.c	/^system_movement(EntityMaster *master)$/;"	f	language:C
+system_movement	core/src/core/ecs/system.h	/^void system_movement(struct EntityMaster *master);$/;"	p	language:C++
+ticks_per_sec	core/src/core/data/skeleton_data.h	/^	f32 ticks_per_sec;$/;"	m	language:C++	struct:__anon19
+ticks_per_sec	core/src/core/data/skeleton_data.h	/^	f32 ticks_per_sec;$/;"	m	language:C++	struct:__anon5
+top	core/src/core/ext/stack.c	/^    size_t top;$/;"	m	language:C	struct:Stack	file:
+translation_count	core/src/core/data/skeleton_data.h	/^	u32 translation_count;$/;"	m	language:C++	struct:__anon18
+translation_count	core/src/core/data/skeleton_data.h	/^	u32 translation_count;$/;"	m	language:C++	struct:__anon4
+translations	core/src/core/data/skeleton_data.h	/^	vec3 *translations;$/;"	m	language:C++	struct:__anon18
+translations	core/src/core/data/skeleton_data.h	/^	vec3 *translations;$/;"	m	language:C++	struct:__anon4
+u16	core/src/core/ext/sugar.h	/^typedef uint16_t u16;$/;"	t	language:C++
+u32	core/src/core/ext/sugar.h	/^typedef uint32_t u32;$/;"	t	language:C++
+u64	core/src/core/ext/sugar.h	/^typedef uint64_t u64;$/;"	t	language:C++
+u8	core/src/core/ext/sugar.h	/^typedef uint8_t	 u8;$/;"	t	language:C++
+uv	core/src/core/data/mesh_bundle.h	/^	vec2 uv;$/;"	m	language:C++	struct:__anon1
+uv	core/src/core/data/mesh_bundle.h	/^	vec2 uv;$/;"	m	language:C++	struct:__anon15
+vec2	/mnt/data/code/c/libs/cglm/include/cglm/types.h	/^typedef float                   vec2[2];$/;"	t	language:C++
+vec3	/mnt/data/code/c/libs/cglm/include/cglm/types.h	/^typedef float                   vec3[3];$/;"	t	language:C++
+vec4	/mnt/data/code/c/libs/cglm/include/cglm/types.h	/^typedef CGLM_ALIGN_IF(16) float vec4[4];$/;"	v	language:C++
+vector	core/src/core/ext/vector.h	28;"	d	language:C++
+vector_begin	core/src/core/ext/vector.h	37;"	d	language:C++
+vector_cap	core/src/core/ext/vector.h	31;"	d	language:C++
+vector_clear	core/src/core/ext/vector.h	33;"	d	language:C++
+vector_contains	core/src/core/ext/vector.h	123;"	d	language:C++
+vector_copy	core/src/core/ext/vector.h	113;"	d	language:C++
+vector_count	core/src/core/ext/vector.h	30;"	d	language:C++
+vector_end	core/src/core/ext/vector.h	38;"	d	language:C++
+vector_end_index	core/src/core/ext/vector.h	39;"	d	language:C++
+vector_free	core/src/core/ext/vector.h	51;"	d	language:C++
+vector_free_all	core/src/core/ext/vector.h	62;"	d	language:C++
+vector_free_all_self	core/src/core/ext/vector.h	74;"	d	language:C++
+vector_init_val	core/src/core/ext/vector.h	41;"	d	language:C++
+vector_pop	core/src/core/ext/vector.h	35;"	d	language:C++
+vector_push	core/src/core/ext/vector.h	134;"	d	language:C++
+vector_remove	core/src/core/ext/vector.h	148;"	d	language:C++
+vector_remove_eq	core/src/core/ext/vector.h	165;"	d	language:C++
+vector_remove_eq_str	core/src/core/ext/vector.h	178;"	d	language:C++
+vector_remove_ptr	core/src/core/ext/vector.h	192;"	d	language:C++
+vector_reserve	core/src/core/ext/vector.h	34;"	d	language:C++
+vector_set_capacity	core/src/core/ext/vector.h	87;"	d	language:C++
+vector_shrink_to_fit	core/src/core/ext/vector.h	36;"	d	language:C++
+vector_size	core/src/core/ext/vector.h	32;"	d	language:C++
+version	core/src/core/data/mesh_bundle.h	/^	u32 version;$/;"	m	language:C++	struct:__anon17
+version	core/src/core/data/mesh_bundle.h	/^	u32 version;$/;"	m	language:C++	struct:__anon3
+versions	core/src/core/ecs/entity_master.h	/^    u32   versions[MAX_ENTITIES];$/;"	m	language:C++	struct:EntityMaster
+versor	/mnt/data/code/c/libs/cglm/include/cglm/types.h	/^typedef vec4                    versor;$/;"	t	language:C++
+vert_count	core/src/core/data/mesh_bundle.h	/^	u32 vert_count;$/;"	m	language:C++	struct:__anon16
+vert_count	core/src/core/data/mesh_bundle.h	/^	u32 vert_count;$/;"	m	language:C++	struct:__anon2
+verts	core/src/core/data/mesh_bundle.h	/^	Vertex *verts;$/;"	m	language:C++	struct:__anon16
+verts	core/src/core/data/mesh_bundle.h	/^	Vertex *verts;$/;"	m	language:C++	struct:__anon2

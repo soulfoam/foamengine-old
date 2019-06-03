@@ -1,0 +1,10 @@
+client/build/
+client/.ycm_extra_conf.py
+core/build/
+core/.ycm_extra_conf.py
+server/
+server/build/
+server/objs/
+server/.ycm_extra_conf.py
+tools/converter/.ycm_extra_conf.py
+tools/converter/build/
